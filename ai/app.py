@@ -33,11 +33,10 @@ CORS(app)
 # Database configuration — reads from environment variables (Docker) or falls back to localhost
 DB_CONFIG = {
     'host': os.environ.get('DB_HOST', 'localhost'),
-    'user': os.environ.get('DB_USER', 'root'),
-    'password': os.environ.get('DB_PASS', ''),
-    'database': os.environ.get('DB_NAME', 'rms')
+    'user': os.environ.get('DB_USER', 'u479471141_Jaylou'),
+    'password': os.environ.get('DB_PASS', 'Daisy4224@!'),
+    'database': os.environ.get('DB_NAME', 'u479471141_invjay')
 }
-
 def get_db_connection():
     """Create database connection"""
     return mysql.connector.connect(**DB_CONFIG)
