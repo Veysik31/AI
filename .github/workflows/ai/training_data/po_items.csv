@@ -1,0 +1,67 @@
+po_id,po_number,product_id,product_name,category,quantity,unit_price,total
+1,PO-20260630-0001,36,"Jin Ramen Mild","Ramen & Noodles",62,110.52,6852.24
+1,PO-20260630-0001,51,"Lotte Luncheon Meat","Meat & Canned Foods",82,503.63,41297.66
+1,PO-20260630-0001,46,Kimchi,"Cooking Ingredients",11,382.01,4202.11
+1,PO-20260630-0001,43,"Sesame Oil","Cooking Ingredients",75,360.09,27006.75
+1,PO-20260630-0001,29,"Buldak Carbonara","Ramen & Noodles",23,119.38,2745.74
+1,PO-20260630-0001,52,Sausage,"Meat & Canned Foods",95,449.02,42656.9
+2,PO-20260713-0002,49,"Pororo Assorted Flavors",Beverages,56,247.87,13880.72
+2,PO-20260713-0002,33,"Ottogi Cheese Ramen","Ramen & Noodles",16,87.57,1401.12
+2,PO-20260713-0002,45,Nori,"Cooking Ingredients",75,242.47,18185.25
+3,PO-20260716-0003,35,"Jin Ramen Spicy","Ramen & Noodles",43,114.38,4918.34
+3,PO-20260716-0003,49,"Pororo Assorted Flavors",Beverages,31,293.91,9111.21
+3,PO-20260716-0003,28,"Buldak Cheese","Ramen & Noodles",71,153.52,10899.92
+4,PO-20260722-0004,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,89.94,8724.18
+4,PO-20260722-0004,36,"Jin Ramen Mild","Ramen & Noodles",10,162.23,1622.3
+4,PO-20260722-0004,35,"Jin Ramen Spicy","Ramen & Noodles",26,87.65,2278.9
+4,PO-20260722-0004,43,"Sesame Oil","Cooking Ingredients",55,326.59,17962.45
+4,PO-20260722-0004,38,Pepero,"Snacks & Chocolates",62,151.16,9371.92
+4,PO-20260722-0004,53,"Beef Bulgogi","Meat & Canned Foods",83,577.17,47905.11
+4,PO-20260722-0004,37,"Shin Ramyun","Ramen & Noodles",92,82.82,7619.44
+4,PO-20260722-0004,51,"Lotte Luncheon Meat","Meat & Canned Foods",19,530.43,10078.17
+5,PO-20260804-0005,42,"Bulgogi Sauce","Sauces & Seasonings",43,173.73,7470.39
+5,PO-20260804-0005,45,Nori,"Cooking Ingredients",87,236.20,20549.4
+5,PO-20260804-0005,43,"Sesame Oil","Cooking Ingredients",76,184.66,14034.16
+5,PO-20260804-0005,40,Snickers,"Snacks & Chocolates",76,165.73,12595.48
+5,PO-20260804-0005,51,"Lotte Luncheon Meat","Meat & Canned Foods",33,337.32,11131.56
+5,PO-20260804-0005,33,"Ottogi Cheese Ramen","Ramen & Noodles",98,142.04,13919.92
+5,PO-20260804-0005,35,"Jin Ramen Spicy","Ramen & Noodles",27,114.38,3088.26
+5,PO-20260804-0005,1,"Buldak 4X Cheese","Ramen & Noodles",97,88.11,8546.67
+6,PO-20260810-0006,41,Mars,"Snacks & Chocolates",66,198.73,13116.18
+6,PO-20260810-0006,47,"Fish Cake","Cooking Ingredients",28,215.80,6042.4
+6,PO-20260810-0006,45,Nori,"Cooking Ingredients",15,231.12,3466.8
+6,PO-20260810-0006,46,Kimchi,"Cooking Ingredients",52,213.33,11093.16
+6,PO-20260810-0006,1,"Buldak 4X Cheese","Ramen & Noodles",53,92.10,4881.3
+7,PO-20260815-0007,45,Nori,"Cooking Ingredients",65,720.00,46800
+7,PO-20260815-0007,48,"Welch's Assorted Flavors",Beverages,23,0.00,0
+7,PO-20260815-0007,46,Kimchi,"Cooking Ingredients",11,780.00,8580
+7,PO-20260815-0007,33,"Ottogi Cheese Ramen","Ramen & Noodles",73,600.00,43800
+7,PO-20260815-0007,37,"Shin Ramyun","Ramen & Noodles",85,600.00,51000
+8,PO-20260824-0008,1,"Buldak 4X Cheese","Ramen & Noodles",80,88.11,7048.8
+8,PO-20260824-0008,49,"Pororo Assorted Flavors",Beverages,77,293.91,22631.07
+8,PO-20260824-0008,48,"Welch's Assorted Flavors",Beverages,68,426.85,29025.8
+8,PO-20260824-0008,45,Nori,"Cooking Ingredients",71,236.20,16770.2
+8,PO-20260824-0008,43,"Sesame Oil","Cooking Ingredients",70,184.66,12926.2
+8,PO-20260824-0008,31,"Buldak Rosé","Ramen & Noodles",90,173.99,15659.1
+9,PO-20260830-0009,43,"Sesame Oil","Cooking Ingredients",63,203.18,12800.34
+9,PO-20260830-0009,42,"Bulgogi Sauce","Sauces & Seasonings",41,163.84,6717.44
+9,PO-20260830-0009,41,Mars,"Snacks & Chocolates",51,303.97,15502.47
+9,PO-20260830-0009,36,"Jin Ramen Mild","Ramen & Noodles",92,162.92,14988.64
+9,PO-20260830-0009,33,"Ottogi Cheese Ramen","Ramen & Noodles",50,91.30,4565
+9,PO-20260830-0009,46,Kimchi,"Cooking Ingredients",43,136.68,5877.24
+9,PO-20260830-0009,30,"Buldak Cream Carbonara","Ramen & Noodles",57,160.80,9165.6
+9,PO-20260830-0009,44,"Sesame Oil 1 Liter","Cooking Ingredients",34,164.53,5594.02
+10,PO-20260910-0010,28,"Buldak Cheese","Ramen & Noodles",25,163.17,4079.25
+10,PO-20260910-0010,50,"Coldtalk Assorted Flavors",Beverages,22,419.67,9232.74
+10,PO-20260910-0010,44,"Sesame Oil 1 Liter","Cooking Ingredients",24,167.10,4010.4
+10,PO-20260910-0010,39,"Lotte Binch","Snacks & Chocolates",66,266.23,17571.18
+10,PO-20260910-0010,53,"Beef Bulgogi","Meat & Canned Foods",31,408.74,12670.94
+10,PO-20260910-0010,41,Mars,"Snacks & Chocolates",60,292.48,17548.8
+10,PO-20260910-0010,48,"Welch's Assorted Flavors",Beverages,96,470.22,45141.12
+10,PO-20260910-0010,49,"Pororo Assorted Flavors",Beverages,55,413.50,22742.5
+11,PO-20260915-0011,37,"Shin Ramyun","Ramen & Noodles",60,82.60,4956
+11,PO-20260915-0011,49,"Pororo Assorted Flavors",Beverages,67,395.02,26466.34
+11,PO-20260915-0011,47,"Fish Cake","Cooking Ingredients",19,315.73,5998.87
+11,PO-20260915-0011,29,"Buldak Carbonara","Ramen & Noodles",90,173.70,15633
+11,PO-20260915-0011,50,"Coldtalk Assorted Flavors",Beverages,45,305.04,13726.8
+11,PO-20260915-0011,39,"Lotte Binch","Snacks & Chocolates",19,179.30,3406.7

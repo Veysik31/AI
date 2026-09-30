@@ -1,0 +1,2458 @@
+date,product_id,product_name,category,stock_level,day_of_week,week_of_year,month
+2026-06-30,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,27,June
+2026-06-30,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,27,June
+2026-06-30,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,27,June
+2026-06-30,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,27,June
+2026-06-30,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,27,June
+2026-06-30,32,"Buldak Black","Ramen & Noodles",0,Tuesday,27,June
+2026-06-30,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,27,June
+2026-06-30,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,27,June
+2026-06-30,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,27,June
+2026-06-30,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,27,June
+2026-06-30,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,27,June
+2026-06-30,38,Pepero,"Snacks & Chocolates",62,Tuesday,27,June
+2026-06-30,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,27,June
+2026-06-30,40,Snickers,"Snacks & Chocolates",76,Tuesday,27,June
+2026-06-30,41,Mars,"Snacks & Chocolates",170,Tuesday,27,June
+2026-06-30,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,27,June
+2026-06-30,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,27,June
+2026-06-30,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,27,June
+2026-06-30,45,Nori,"Cooking Ingredients",313,Tuesday,27,June
+2026-06-30,46,Kimchi,"Cooking Ingredients",86,Tuesday,27,June
+2026-06-30,47,"Fish Cake","Cooking Ingredients",47,Tuesday,27,June
+2026-06-30,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,27,June
+2026-06-30,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,27,June
+2026-06-30,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,27,June
+2026-06-30,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,27,June
+2026-06-30,52,Sausage,"Meat & Canned Foods",95,Tuesday,27,June
+2026-06-30,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,27,June
+2026-07-01,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,27,July
+2026-07-01,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,27,July
+2026-07-01,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,27,July
+2026-07-01,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,27,July
+2026-07-01,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,27,July
+2026-07-01,32,"Buldak Black","Ramen & Noodles",0,Wednesday,27,July
+2026-07-01,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,27,July
+2026-07-01,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,27,July
+2026-07-01,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,27,July
+2026-07-01,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,27,July
+2026-07-01,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,27,July
+2026-07-01,38,Pepero,"Snacks & Chocolates",62,Wednesday,27,July
+2026-07-01,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,27,July
+2026-07-01,40,Snickers,"Snacks & Chocolates",76,Wednesday,27,July
+2026-07-01,41,Mars,"Snacks & Chocolates",170,Wednesday,27,July
+2026-07-01,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,27,July
+2026-07-01,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,27,July
+2026-07-01,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,27,July
+2026-07-01,45,Nori,"Cooking Ingredients",313,Wednesday,27,July
+2026-07-01,46,Kimchi,"Cooking Ingredients",86,Wednesday,27,July
+2026-07-01,47,"Fish Cake","Cooking Ingredients",47,Wednesday,27,July
+2026-07-01,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,27,July
+2026-07-01,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,27,July
+2026-07-01,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,27,July
+2026-07-01,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,27,July
+2026-07-01,52,Sausage,"Meat & Canned Foods",95,Wednesday,27,July
+2026-07-01,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,27,July
+2026-07-02,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,27,July
+2026-07-02,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,27,July
+2026-07-02,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,27,July
+2026-07-02,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,27,July
+2026-07-02,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,27,July
+2026-07-02,32,"Buldak Black","Ramen & Noodles",0,Thursday,27,July
+2026-07-02,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,27,July
+2026-07-02,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,27,July
+2026-07-02,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,27,July
+2026-07-02,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,27,July
+2026-07-02,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,27,July
+2026-07-02,38,Pepero,"Snacks & Chocolates",62,Thursday,27,July
+2026-07-02,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,27,July
+2026-07-02,40,Snickers,"Snacks & Chocolates",76,Thursday,27,July
+2026-07-02,41,Mars,"Snacks & Chocolates",170,Thursday,27,July
+2026-07-02,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,27,July
+2026-07-02,43,"Sesame Oil","Cooking Ingredients",339,Thursday,27,July
+2026-07-02,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,27,July
+2026-07-02,45,Nori,"Cooking Ingredients",313,Thursday,27,July
+2026-07-02,46,Kimchi,"Cooking Ingredients",86,Thursday,27,July
+2026-07-02,47,"Fish Cake","Cooking Ingredients",47,Thursday,27,July
+2026-07-02,48,"Welch's Assorted Flavors",Beverages,172,Thursday,27,July
+2026-07-02,49,"Pororo Assorted Flavors",Beverages,243,Thursday,27,July
+2026-07-02,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,27,July
+2026-07-02,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,27,July
+2026-07-02,52,Sausage,"Meat & Canned Foods",95,Thursday,27,July
+2026-07-02,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,27,July
+2026-07-03,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,27,July
+2026-07-03,28,"Buldak Cheese","Ramen & Noodles",58,Friday,27,July
+2026-07-03,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,27,July
+2026-07-03,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,27,July
+2026-07-03,31,"Buldak Rosé","Ramen & Noodles",90,Friday,27,July
+2026-07-03,32,"Buldak Black","Ramen & Noodles",0,Friday,27,July
+2026-07-03,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,27,July
+2026-07-03,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,27,July
+2026-07-03,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,27,July
+2026-07-03,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,27,July
+2026-07-03,37,"Shin Ramyun","Ramen & Noodles",223,Friday,27,July
+2026-07-03,38,Pepero,"Snacks & Chocolates",62,Friday,27,July
+2026-07-03,39,"Lotte Binch","Snacks & Chocolates",85,Friday,27,July
+2026-07-03,40,Snickers,"Snacks & Chocolates",76,Friday,27,July
+2026-07-03,41,Mars,"Snacks & Chocolates",170,Friday,27,July
+2026-07-03,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,27,July
+2026-07-03,43,"Sesame Oil","Cooking Ingredients",339,Friday,27,July
+2026-07-03,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,27,July
+2026-07-03,45,Nori,"Cooking Ingredients",313,Friday,27,July
+2026-07-03,46,Kimchi,"Cooking Ingredients",86,Friday,27,July
+2026-07-03,47,"Fish Cake","Cooking Ingredients",47,Friday,27,July
+2026-07-03,48,"Welch's Assorted Flavors",Beverages,172,Friday,27,July
+2026-07-03,49,"Pororo Assorted Flavors",Beverages,243,Friday,27,July
+2026-07-03,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,27,July
+2026-07-03,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,27,July
+2026-07-03,52,Sausage,"Meat & Canned Foods",95,Friday,27,July
+2026-07-03,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,27,July
+2026-07-04,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,27,July
+2026-07-04,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,27,July
+2026-07-04,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,27,July
+2026-07-04,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,27,July
+2026-07-04,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,27,July
+2026-07-04,32,"Buldak Black","Ramen & Noodles",0,Saturday,27,July
+2026-07-04,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,27,July
+2026-07-04,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,27,July
+2026-07-04,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,27,July
+2026-07-04,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,27,July
+2026-07-04,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,27,July
+2026-07-04,38,Pepero,"Snacks & Chocolates",62,Saturday,27,July
+2026-07-04,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,27,July
+2026-07-04,40,Snickers,"Snacks & Chocolates",76,Saturday,27,July
+2026-07-04,41,Mars,"Snacks & Chocolates",170,Saturday,27,July
+2026-07-04,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,27,July
+2026-07-04,43,"Sesame Oil","Cooking Ingredients",339,Saturday,27,July
+2026-07-04,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,27,July
+2026-07-04,45,Nori,"Cooking Ingredients",313,Saturday,27,July
+2026-07-04,46,Kimchi,"Cooking Ingredients",86,Saturday,27,July
+2026-07-04,47,"Fish Cake","Cooking Ingredients",47,Saturday,27,July
+2026-07-04,48,"Welch's Assorted Flavors",Beverages,172,Saturday,27,July
+2026-07-04,49,"Pororo Assorted Flavors",Beverages,243,Saturday,27,July
+2026-07-04,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,27,July
+2026-07-04,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,27,July
+2026-07-04,52,Sausage,"Meat & Canned Foods",95,Saturday,27,July
+2026-07-04,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,27,July
+2026-07-05,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,27,July
+2026-07-05,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,27,July
+2026-07-05,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,27,July
+2026-07-05,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,27,July
+2026-07-05,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,27,July
+2026-07-05,32,"Buldak Black","Ramen & Noodles",0,Sunday,27,July
+2026-07-05,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,27,July
+2026-07-05,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,27,July
+2026-07-05,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,27,July
+2026-07-05,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,27,July
+2026-07-05,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,27,July
+2026-07-05,38,Pepero,"Snacks & Chocolates",62,Sunday,27,July
+2026-07-05,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,27,July
+2026-07-05,40,Snickers,"Snacks & Chocolates",76,Sunday,27,July
+2026-07-05,41,Mars,"Snacks & Chocolates",170,Sunday,27,July
+2026-07-05,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,27,July
+2026-07-05,43,"Sesame Oil","Cooking Ingredients",339,Sunday,27,July
+2026-07-05,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,27,July
+2026-07-05,45,Nori,"Cooking Ingredients",313,Sunday,27,July
+2026-07-05,46,Kimchi,"Cooking Ingredients",86,Sunday,27,July
+2026-07-05,47,"Fish Cake","Cooking Ingredients",47,Sunday,27,July
+2026-07-05,48,"Welch's Assorted Flavors",Beverages,172,Sunday,27,July
+2026-07-05,49,"Pororo Assorted Flavors",Beverages,243,Sunday,27,July
+2026-07-05,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,27,July
+2026-07-05,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,27,July
+2026-07-05,52,Sausage,"Meat & Canned Foods",95,Sunday,27,July
+2026-07-05,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,27,July
+2026-07-06,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,28,July
+2026-07-06,28,"Buldak Cheese","Ramen & Noodles",58,Monday,28,July
+2026-07-06,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,28,July
+2026-07-06,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,28,July
+2026-07-06,31,"Buldak Rosé","Ramen & Noodles",90,Monday,28,July
+2026-07-06,32,"Buldak Black","Ramen & Noodles",0,Monday,28,July
+2026-07-06,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,28,July
+2026-07-06,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,28,July
+2026-07-06,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,28,July
+2026-07-06,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,28,July
+2026-07-06,37,"Shin Ramyun","Ramen & Noodles",223,Monday,28,July
+2026-07-06,38,Pepero,"Snacks & Chocolates",62,Monday,28,July
+2026-07-06,39,"Lotte Binch","Snacks & Chocolates",85,Monday,28,July
+2026-07-06,40,Snickers,"Snacks & Chocolates",76,Monday,28,July
+2026-07-06,41,Mars,"Snacks & Chocolates",170,Monday,28,July
+2026-07-06,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,28,July
+2026-07-06,43,"Sesame Oil","Cooking Ingredients",339,Monday,28,July
+2026-07-06,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,28,July
+2026-07-06,45,Nori,"Cooking Ingredients",313,Monday,28,July
+2026-07-06,46,Kimchi,"Cooking Ingredients",86,Monday,28,July
+2026-07-06,47,"Fish Cake","Cooking Ingredients",47,Monday,28,July
+2026-07-06,48,"Welch's Assorted Flavors",Beverages,172,Monday,28,July
+2026-07-06,49,"Pororo Assorted Flavors",Beverages,243,Monday,28,July
+2026-07-06,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,28,July
+2026-07-06,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,28,July
+2026-07-06,52,Sausage,"Meat & Canned Foods",95,Monday,28,July
+2026-07-06,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,28,July
+2026-07-07,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,28,July
+2026-07-07,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,28,July
+2026-07-07,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,28,July
+2026-07-07,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,28,July
+2026-07-07,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,28,July
+2026-07-07,32,"Buldak Black","Ramen & Noodles",0,Tuesday,28,July
+2026-07-07,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,28,July
+2026-07-07,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,28,July
+2026-07-07,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,28,July
+2026-07-07,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,28,July
+2026-07-07,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,28,July
+2026-07-07,38,Pepero,"Snacks & Chocolates",62,Tuesday,28,July
+2026-07-07,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,28,July
+2026-07-07,40,Snickers,"Snacks & Chocolates",76,Tuesday,28,July
+2026-07-07,41,Mars,"Snacks & Chocolates",170,Tuesday,28,July
+2026-07-07,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,28,July
+2026-07-07,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,28,July
+2026-07-07,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,28,July
+2026-07-07,45,Nori,"Cooking Ingredients",313,Tuesday,28,July
+2026-07-07,46,Kimchi,"Cooking Ingredients",86,Tuesday,28,July
+2026-07-07,47,"Fish Cake","Cooking Ingredients",47,Tuesday,28,July
+2026-07-07,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,28,July
+2026-07-07,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,28,July
+2026-07-07,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,28,July
+2026-07-07,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,28,July
+2026-07-07,52,Sausage,"Meat & Canned Foods",95,Tuesday,28,July
+2026-07-07,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,28,July
+2026-07-08,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,28,July
+2026-07-08,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,28,July
+2026-07-08,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,28,July
+2026-07-08,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,28,July
+2026-07-08,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,28,July
+2026-07-08,32,"Buldak Black","Ramen & Noodles",0,Wednesday,28,July
+2026-07-08,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,28,July
+2026-07-08,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,28,July
+2026-07-08,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,28,July
+2026-07-08,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,28,July
+2026-07-08,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,28,July
+2026-07-08,38,Pepero,"Snacks & Chocolates",62,Wednesday,28,July
+2026-07-08,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,28,July
+2026-07-08,40,Snickers,"Snacks & Chocolates",76,Wednesday,28,July
+2026-07-08,41,Mars,"Snacks & Chocolates",170,Wednesday,28,July
+2026-07-08,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,28,July
+2026-07-08,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,28,July
+2026-07-08,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,28,July
+2026-07-08,45,Nori,"Cooking Ingredients",313,Wednesday,28,July
+2026-07-08,46,Kimchi,"Cooking Ingredients",86,Wednesday,28,July
+2026-07-08,47,"Fish Cake","Cooking Ingredients",47,Wednesday,28,July
+2026-07-08,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,28,July
+2026-07-08,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,28,July
+2026-07-08,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,28,July
+2026-07-08,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,28,July
+2026-07-08,52,Sausage,"Meat & Canned Foods",95,Wednesday,28,July
+2026-07-08,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,28,July
+2026-07-09,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,28,July
+2026-07-09,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,28,July
+2026-07-09,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,28,July
+2026-07-09,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,28,July
+2026-07-09,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,28,July
+2026-07-09,32,"Buldak Black","Ramen & Noodles",0,Thursday,28,July
+2026-07-09,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,28,July
+2026-07-09,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,28,July
+2026-07-09,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,28,July
+2026-07-09,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,28,July
+2026-07-09,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,28,July
+2026-07-09,38,Pepero,"Snacks & Chocolates",62,Thursday,28,July
+2026-07-09,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,28,July
+2026-07-09,40,Snickers,"Snacks & Chocolates",76,Thursday,28,July
+2026-07-09,41,Mars,"Snacks & Chocolates",170,Thursday,28,July
+2026-07-09,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,28,July
+2026-07-09,43,"Sesame Oil","Cooking Ingredients",339,Thursday,28,July
+2026-07-09,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,28,July
+2026-07-09,45,Nori,"Cooking Ingredients",313,Thursday,28,July
+2026-07-09,46,Kimchi,"Cooking Ingredients",86,Thursday,28,July
+2026-07-09,47,"Fish Cake","Cooking Ingredients",47,Thursday,28,July
+2026-07-09,48,"Welch's Assorted Flavors",Beverages,172,Thursday,28,July
+2026-07-09,49,"Pororo Assorted Flavors",Beverages,243,Thursday,28,July
+2026-07-09,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,28,July
+2026-07-09,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,28,July
+2026-07-09,52,Sausage,"Meat & Canned Foods",95,Thursday,28,July
+2026-07-09,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,28,July
+2026-07-10,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,28,July
+2026-07-10,28,"Buldak Cheese","Ramen & Noodles",58,Friday,28,July
+2026-07-10,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,28,July
+2026-07-10,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,28,July
+2026-07-10,31,"Buldak Rosé","Ramen & Noodles",90,Friday,28,July
+2026-07-10,32,"Buldak Black","Ramen & Noodles",0,Friday,28,July
+2026-07-10,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,28,July
+2026-07-10,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,28,July
+2026-07-10,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,28,July
+2026-07-10,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,28,July
+2026-07-10,37,"Shin Ramyun","Ramen & Noodles",223,Friday,28,July
+2026-07-10,38,Pepero,"Snacks & Chocolates",62,Friday,28,July
+2026-07-10,39,"Lotte Binch","Snacks & Chocolates",85,Friday,28,July
+2026-07-10,40,Snickers,"Snacks & Chocolates",76,Friday,28,July
+2026-07-10,41,Mars,"Snacks & Chocolates",170,Friday,28,July
+2026-07-10,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,28,July
+2026-07-10,43,"Sesame Oil","Cooking Ingredients",339,Friday,28,July
+2026-07-10,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,28,July
+2026-07-10,45,Nori,"Cooking Ingredients",313,Friday,28,July
+2026-07-10,46,Kimchi,"Cooking Ingredients",86,Friday,28,July
+2026-07-10,47,"Fish Cake","Cooking Ingredients",47,Friday,28,July
+2026-07-10,48,"Welch's Assorted Flavors",Beverages,172,Friday,28,July
+2026-07-10,49,"Pororo Assorted Flavors",Beverages,243,Friday,28,July
+2026-07-10,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,28,July
+2026-07-10,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,28,July
+2026-07-10,52,Sausage,"Meat & Canned Foods",95,Friday,28,July
+2026-07-10,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,28,July
+2026-07-11,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,28,July
+2026-07-11,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,28,July
+2026-07-11,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,28,July
+2026-07-11,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,28,July
+2026-07-11,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,28,July
+2026-07-11,32,"Buldak Black","Ramen & Noodles",0,Saturday,28,July
+2026-07-11,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,28,July
+2026-07-11,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,28,July
+2026-07-11,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,28,July
+2026-07-11,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,28,July
+2026-07-11,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,28,July
+2026-07-11,38,Pepero,"Snacks & Chocolates",62,Saturday,28,July
+2026-07-11,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,28,July
+2026-07-11,40,Snickers,"Snacks & Chocolates",76,Saturday,28,July
+2026-07-11,41,Mars,"Snacks & Chocolates",170,Saturday,28,July
+2026-07-11,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,28,July
+2026-07-11,43,"Sesame Oil","Cooking Ingredients",339,Saturday,28,July
+2026-07-11,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,28,July
+2026-07-11,45,Nori,"Cooking Ingredients",313,Saturday,28,July
+2026-07-11,46,Kimchi,"Cooking Ingredients",86,Saturday,28,July
+2026-07-11,47,"Fish Cake","Cooking Ingredients",47,Saturday,28,July
+2026-07-11,48,"Welch's Assorted Flavors",Beverages,172,Saturday,28,July
+2026-07-11,49,"Pororo Assorted Flavors",Beverages,243,Saturday,28,July
+2026-07-11,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,28,July
+2026-07-11,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,28,July
+2026-07-11,52,Sausage,"Meat & Canned Foods",95,Saturday,28,July
+2026-07-11,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,28,July
+2026-07-12,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,28,July
+2026-07-12,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,28,July
+2026-07-12,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,28,July
+2026-07-12,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,28,July
+2026-07-12,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,28,July
+2026-07-12,32,"Buldak Black","Ramen & Noodles",0,Sunday,28,July
+2026-07-12,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,28,July
+2026-07-12,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,28,July
+2026-07-12,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,28,July
+2026-07-12,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,28,July
+2026-07-12,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,28,July
+2026-07-12,38,Pepero,"Snacks & Chocolates",62,Sunday,28,July
+2026-07-12,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,28,July
+2026-07-12,40,Snickers,"Snacks & Chocolates",76,Sunday,28,July
+2026-07-12,41,Mars,"Snacks & Chocolates",170,Sunday,28,July
+2026-07-12,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,28,July
+2026-07-12,43,"Sesame Oil","Cooking Ingredients",339,Sunday,28,July
+2026-07-12,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,28,July
+2026-07-12,45,Nori,"Cooking Ingredients",313,Sunday,28,July
+2026-07-12,46,Kimchi,"Cooking Ingredients",86,Sunday,28,July
+2026-07-12,47,"Fish Cake","Cooking Ingredients",47,Sunday,28,July
+2026-07-12,48,"Welch's Assorted Flavors",Beverages,172,Sunday,28,July
+2026-07-12,49,"Pororo Assorted Flavors",Beverages,243,Sunday,28,July
+2026-07-12,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,28,July
+2026-07-12,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,28,July
+2026-07-12,52,Sausage,"Meat & Canned Foods",95,Sunday,28,July
+2026-07-12,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,28,July
+2026-07-13,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,29,July
+2026-07-13,28,"Buldak Cheese","Ramen & Noodles",58,Monday,29,July
+2026-07-13,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,29,July
+2026-07-13,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,29,July
+2026-07-13,31,"Buldak Rosé","Ramen & Noodles",90,Monday,29,July
+2026-07-13,32,"Buldak Black","Ramen & Noodles",0,Monday,29,July
+2026-07-13,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,29,July
+2026-07-13,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,29,July
+2026-07-13,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,29,July
+2026-07-13,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,29,July
+2026-07-13,37,"Shin Ramyun","Ramen & Noodles",223,Monday,29,July
+2026-07-13,38,Pepero,"Snacks & Chocolates",62,Monday,29,July
+2026-07-13,39,"Lotte Binch","Snacks & Chocolates",85,Monday,29,July
+2026-07-13,40,Snickers,"Snacks & Chocolates",76,Monday,29,July
+2026-07-13,41,Mars,"Snacks & Chocolates",170,Monday,29,July
+2026-07-13,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,29,July
+2026-07-13,43,"Sesame Oil","Cooking Ingredients",339,Monday,29,July
+2026-07-13,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,29,July
+2026-07-13,45,Nori,"Cooking Ingredients",313,Monday,29,July
+2026-07-13,46,Kimchi,"Cooking Ingredients",86,Monday,29,July
+2026-07-13,47,"Fish Cake","Cooking Ingredients",47,Monday,29,July
+2026-07-13,48,"Welch's Assorted Flavors",Beverages,172,Monday,29,July
+2026-07-13,49,"Pororo Assorted Flavors",Beverages,243,Monday,29,July
+2026-07-13,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,29,July
+2026-07-13,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,29,July
+2026-07-13,52,Sausage,"Meat & Canned Foods",95,Monday,29,July
+2026-07-13,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,29,July
+2026-07-14,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,29,July
+2026-07-14,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,29,July
+2026-07-14,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,29,July
+2026-07-14,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,29,July
+2026-07-14,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,29,July
+2026-07-14,32,"Buldak Black","Ramen & Noodles",0,Tuesday,29,July
+2026-07-14,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,29,July
+2026-07-14,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,29,July
+2026-07-14,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,29,July
+2026-07-14,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,29,July
+2026-07-14,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,29,July
+2026-07-14,38,Pepero,"Snacks & Chocolates",62,Tuesday,29,July
+2026-07-14,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,29,July
+2026-07-14,40,Snickers,"Snacks & Chocolates",76,Tuesday,29,July
+2026-07-14,41,Mars,"Snacks & Chocolates",170,Tuesday,29,July
+2026-07-14,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,29,July
+2026-07-14,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,29,July
+2026-07-14,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,29,July
+2026-07-14,45,Nori,"Cooking Ingredients",313,Tuesday,29,July
+2026-07-14,46,Kimchi,"Cooking Ingredients",86,Tuesday,29,July
+2026-07-14,47,"Fish Cake","Cooking Ingredients",47,Tuesday,29,July
+2026-07-14,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,29,July
+2026-07-14,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,29,July
+2026-07-14,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,29,July
+2026-07-14,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,29,July
+2026-07-14,52,Sausage,"Meat & Canned Foods",95,Tuesday,29,July
+2026-07-14,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,29,July
+2026-07-15,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,29,July
+2026-07-15,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,29,July
+2026-07-15,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,29,July
+2026-07-15,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,29,July
+2026-07-15,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,29,July
+2026-07-15,32,"Buldak Black","Ramen & Noodles",0,Wednesday,29,July
+2026-07-15,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,29,July
+2026-07-15,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,29,July
+2026-07-15,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,29,July
+2026-07-15,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,29,July
+2026-07-15,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,29,July
+2026-07-15,38,Pepero,"Snacks & Chocolates",62,Wednesday,29,July
+2026-07-15,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,29,July
+2026-07-15,40,Snickers,"Snacks & Chocolates",76,Wednesday,29,July
+2026-07-15,41,Mars,"Snacks & Chocolates",170,Wednesday,29,July
+2026-07-15,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,29,July
+2026-07-15,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,29,July
+2026-07-15,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,29,July
+2026-07-15,45,Nori,"Cooking Ingredients",313,Wednesday,29,July
+2026-07-15,46,Kimchi,"Cooking Ingredients",86,Wednesday,29,July
+2026-07-15,47,"Fish Cake","Cooking Ingredients",47,Wednesday,29,July
+2026-07-15,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,29,July
+2026-07-15,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,29,July
+2026-07-15,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,29,July
+2026-07-15,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,29,July
+2026-07-15,52,Sausage,"Meat & Canned Foods",95,Wednesday,29,July
+2026-07-15,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,29,July
+2026-07-16,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,29,July
+2026-07-16,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,29,July
+2026-07-16,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,29,July
+2026-07-16,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,29,July
+2026-07-16,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,29,July
+2026-07-16,32,"Buldak Black","Ramen & Noodles",0,Thursday,29,July
+2026-07-16,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,29,July
+2026-07-16,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,29,July
+2026-07-16,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,29,July
+2026-07-16,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,29,July
+2026-07-16,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,29,July
+2026-07-16,38,Pepero,"Snacks & Chocolates",62,Thursday,29,July
+2026-07-16,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,29,July
+2026-07-16,40,Snickers,"Snacks & Chocolates",76,Thursday,29,July
+2026-07-16,41,Mars,"Snacks & Chocolates",170,Thursday,29,July
+2026-07-16,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,29,July
+2026-07-16,43,"Sesame Oil","Cooking Ingredients",339,Thursday,29,July
+2026-07-16,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,29,July
+2026-07-16,45,Nori,"Cooking Ingredients",313,Thursday,29,July
+2026-07-16,46,Kimchi,"Cooking Ingredients",86,Thursday,29,July
+2026-07-16,47,"Fish Cake","Cooking Ingredients",47,Thursday,29,July
+2026-07-16,48,"Welch's Assorted Flavors",Beverages,172,Thursday,29,July
+2026-07-16,49,"Pororo Assorted Flavors",Beverages,243,Thursday,29,July
+2026-07-16,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,29,July
+2026-07-16,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,29,July
+2026-07-16,52,Sausage,"Meat & Canned Foods",95,Thursday,29,July
+2026-07-16,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,29,July
+2026-07-17,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,29,July
+2026-07-17,28,"Buldak Cheese","Ramen & Noodles",58,Friday,29,July
+2026-07-17,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,29,July
+2026-07-17,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,29,July
+2026-07-17,31,"Buldak Rosé","Ramen & Noodles",90,Friday,29,July
+2026-07-17,32,"Buldak Black","Ramen & Noodles",0,Friday,29,July
+2026-07-17,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,29,July
+2026-07-17,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,29,July
+2026-07-17,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,29,July
+2026-07-17,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,29,July
+2026-07-17,37,"Shin Ramyun","Ramen & Noodles",223,Friday,29,July
+2026-07-17,38,Pepero,"Snacks & Chocolates",62,Friday,29,July
+2026-07-17,39,"Lotte Binch","Snacks & Chocolates",85,Friday,29,July
+2026-07-17,40,Snickers,"Snacks & Chocolates",76,Friday,29,July
+2026-07-17,41,Mars,"Snacks & Chocolates",170,Friday,29,July
+2026-07-17,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,29,July
+2026-07-17,43,"Sesame Oil","Cooking Ingredients",339,Friday,29,July
+2026-07-17,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,29,July
+2026-07-17,45,Nori,"Cooking Ingredients",313,Friday,29,July
+2026-07-17,46,Kimchi,"Cooking Ingredients",86,Friday,29,July
+2026-07-17,47,"Fish Cake","Cooking Ingredients",47,Friday,29,July
+2026-07-17,48,"Welch's Assorted Flavors",Beverages,172,Friday,29,July
+2026-07-17,49,"Pororo Assorted Flavors",Beverages,243,Friday,29,July
+2026-07-17,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,29,July
+2026-07-17,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,29,July
+2026-07-17,52,Sausage,"Meat & Canned Foods",95,Friday,29,July
+2026-07-17,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,29,July
+2026-07-18,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,29,July
+2026-07-18,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,29,July
+2026-07-18,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,29,July
+2026-07-18,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,29,July
+2026-07-18,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,29,July
+2026-07-18,32,"Buldak Black","Ramen & Noodles",0,Saturday,29,July
+2026-07-18,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,29,July
+2026-07-18,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,29,July
+2026-07-18,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,29,July
+2026-07-18,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,29,July
+2026-07-18,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,29,July
+2026-07-18,38,Pepero,"Snacks & Chocolates",62,Saturday,29,July
+2026-07-18,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,29,July
+2026-07-18,40,Snickers,"Snacks & Chocolates",76,Saturday,29,July
+2026-07-18,41,Mars,"Snacks & Chocolates",170,Saturday,29,July
+2026-07-18,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,29,July
+2026-07-18,43,"Sesame Oil","Cooking Ingredients",339,Saturday,29,July
+2026-07-18,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,29,July
+2026-07-18,45,Nori,"Cooking Ingredients",313,Saturday,29,July
+2026-07-18,46,Kimchi,"Cooking Ingredients",86,Saturday,29,July
+2026-07-18,47,"Fish Cake","Cooking Ingredients",47,Saturday,29,July
+2026-07-18,48,"Welch's Assorted Flavors",Beverages,172,Saturday,29,July
+2026-07-18,49,"Pororo Assorted Flavors",Beverages,243,Saturday,29,July
+2026-07-18,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,29,July
+2026-07-18,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,29,July
+2026-07-18,52,Sausage,"Meat & Canned Foods",95,Saturday,29,July
+2026-07-18,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,29,July
+2026-07-19,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,29,July
+2026-07-19,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,29,July
+2026-07-19,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,29,July
+2026-07-19,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,29,July
+2026-07-19,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,29,July
+2026-07-19,32,"Buldak Black","Ramen & Noodles",0,Sunday,29,July
+2026-07-19,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,29,July
+2026-07-19,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,29,July
+2026-07-19,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,29,July
+2026-07-19,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,29,July
+2026-07-19,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,29,July
+2026-07-19,38,Pepero,"Snacks & Chocolates",62,Sunday,29,July
+2026-07-19,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,29,July
+2026-07-19,40,Snickers,"Snacks & Chocolates",76,Sunday,29,July
+2026-07-19,41,Mars,"Snacks & Chocolates",170,Sunday,29,July
+2026-07-19,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,29,July
+2026-07-19,43,"Sesame Oil","Cooking Ingredients",339,Sunday,29,July
+2026-07-19,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,29,July
+2026-07-19,45,Nori,"Cooking Ingredients",313,Sunday,29,July
+2026-07-19,46,Kimchi,"Cooking Ingredients",86,Sunday,29,July
+2026-07-19,47,"Fish Cake","Cooking Ingredients",47,Sunday,29,July
+2026-07-19,48,"Welch's Assorted Flavors",Beverages,172,Sunday,29,July
+2026-07-19,49,"Pororo Assorted Flavors",Beverages,243,Sunday,29,July
+2026-07-19,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,29,July
+2026-07-19,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,29,July
+2026-07-19,52,Sausage,"Meat & Canned Foods",95,Sunday,29,July
+2026-07-19,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,29,July
+2026-07-20,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,30,July
+2026-07-20,28,"Buldak Cheese","Ramen & Noodles",58,Monday,30,July
+2026-07-20,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,30,July
+2026-07-20,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,30,July
+2026-07-20,31,"Buldak Rosé","Ramen & Noodles",90,Monday,30,July
+2026-07-20,32,"Buldak Black","Ramen & Noodles",0,Monday,30,July
+2026-07-20,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,30,July
+2026-07-20,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,30,July
+2026-07-20,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,30,July
+2026-07-20,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,30,July
+2026-07-20,37,"Shin Ramyun","Ramen & Noodles",223,Monday,30,July
+2026-07-20,38,Pepero,"Snacks & Chocolates",62,Monday,30,July
+2026-07-20,39,"Lotte Binch","Snacks & Chocolates",85,Monday,30,July
+2026-07-20,40,Snickers,"Snacks & Chocolates",76,Monday,30,July
+2026-07-20,41,Mars,"Snacks & Chocolates",170,Monday,30,July
+2026-07-20,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,30,July
+2026-07-20,43,"Sesame Oil","Cooking Ingredients",339,Monday,30,July
+2026-07-20,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,30,July
+2026-07-20,45,Nori,"Cooking Ingredients",313,Monday,30,July
+2026-07-20,46,Kimchi,"Cooking Ingredients",86,Monday,30,July
+2026-07-20,47,"Fish Cake","Cooking Ingredients",47,Monday,30,July
+2026-07-20,48,"Welch's Assorted Flavors",Beverages,172,Monday,30,July
+2026-07-20,49,"Pororo Assorted Flavors",Beverages,243,Monday,30,July
+2026-07-20,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,30,July
+2026-07-20,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,30,July
+2026-07-20,52,Sausage,"Meat & Canned Foods",95,Monday,30,July
+2026-07-20,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,30,July
+2026-07-21,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,30,July
+2026-07-21,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,30,July
+2026-07-21,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,30,July
+2026-07-21,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,30,July
+2026-07-21,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,30,July
+2026-07-21,32,"Buldak Black","Ramen & Noodles",0,Tuesday,30,July
+2026-07-21,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,30,July
+2026-07-21,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,30,July
+2026-07-21,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,30,July
+2026-07-21,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,30,July
+2026-07-21,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,30,July
+2026-07-21,38,Pepero,"Snacks & Chocolates",62,Tuesday,30,July
+2026-07-21,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,30,July
+2026-07-21,40,Snickers,"Snacks & Chocolates",76,Tuesday,30,July
+2026-07-21,41,Mars,"Snacks & Chocolates",170,Tuesday,30,July
+2026-07-21,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,30,July
+2026-07-21,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,30,July
+2026-07-21,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,30,July
+2026-07-21,45,Nori,"Cooking Ingredients",313,Tuesday,30,July
+2026-07-21,46,Kimchi,"Cooking Ingredients",86,Tuesday,30,July
+2026-07-21,47,"Fish Cake","Cooking Ingredients",47,Tuesday,30,July
+2026-07-21,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,30,July
+2026-07-21,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,30,July
+2026-07-21,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,30,July
+2026-07-21,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,30,July
+2026-07-21,52,Sausage,"Meat & Canned Foods",95,Tuesday,30,July
+2026-07-21,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,30,July
+2026-07-22,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,30,July
+2026-07-22,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,30,July
+2026-07-22,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,30,July
+2026-07-22,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,30,July
+2026-07-22,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,30,July
+2026-07-22,32,"Buldak Black","Ramen & Noodles",0,Wednesday,30,July
+2026-07-22,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,30,July
+2026-07-22,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,30,July
+2026-07-22,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,30,July
+2026-07-22,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,30,July
+2026-07-22,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,30,July
+2026-07-22,38,Pepero,"Snacks & Chocolates",62,Wednesday,30,July
+2026-07-22,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,30,July
+2026-07-22,40,Snickers,"Snacks & Chocolates",76,Wednesday,30,July
+2026-07-22,41,Mars,"Snacks & Chocolates",170,Wednesday,30,July
+2026-07-22,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,30,July
+2026-07-22,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,30,July
+2026-07-22,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,30,July
+2026-07-22,45,Nori,"Cooking Ingredients",313,Wednesday,30,July
+2026-07-22,46,Kimchi,"Cooking Ingredients",86,Wednesday,30,July
+2026-07-22,47,"Fish Cake","Cooking Ingredients",47,Wednesday,30,July
+2026-07-22,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,30,July
+2026-07-22,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,30,July
+2026-07-22,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,30,July
+2026-07-22,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,30,July
+2026-07-22,52,Sausage,"Meat & Canned Foods",95,Wednesday,30,July
+2026-07-22,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,30,July
+2026-07-23,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,30,July
+2026-07-23,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,30,July
+2026-07-23,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,30,July
+2026-07-23,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,30,July
+2026-07-23,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,30,July
+2026-07-23,32,"Buldak Black","Ramen & Noodles",0,Thursday,30,July
+2026-07-23,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,30,July
+2026-07-23,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,30,July
+2026-07-23,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,30,July
+2026-07-23,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,30,July
+2026-07-23,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,30,July
+2026-07-23,38,Pepero,"Snacks & Chocolates",62,Thursday,30,July
+2026-07-23,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,30,July
+2026-07-23,40,Snickers,"Snacks & Chocolates",76,Thursday,30,July
+2026-07-23,41,Mars,"Snacks & Chocolates",170,Thursday,30,July
+2026-07-23,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,30,July
+2026-07-23,43,"Sesame Oil","Cooking Ingredients",339,Thursday,30,July
+2026-07-23,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,30,July
+2026-07-23,45,Nori,"Cooking Ingredients",313,Thursday,30,July
+2026-07-23,46,Kimchi,"Cooking Ingredients",86,Thursday,30,July
+2026-07-23,47,"Fish Cake","Cooking Ingredients",47,Thursday,30,July
+2026-07-23,48,"Welch's Assorted Flavors",Beverages,172,Thursday,30,July
+2026-07-23,49,"Pororo Assorted Flavors",Beverages,243,Thursday,30,July
+2026-07-23,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,30,July
+2026-07-23,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,30,July
+2026-07-23,52,Sausage,"Meat & Canned Foods",95,Thursday,30,July
+2026-07-23,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,30,July
+2026-07-24,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,30,July
+2026-07-24,28,"Buldak Cheese","Ramen & Noodles",58,Friday,30,July
+2026-07-24,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,30,July
+2026-07-24,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,30,July
+2026-07-24,31,"Buldak Rosé","Ramen & Noodles",90,Friday,30,July
+2026-07-24,32,"Buldak Black","Ramen & Noodles",0,Friday,30,July
+2026-07-24,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,30,July
+2026-07-24,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,30,July
+2026-07-24,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,30,July
+2026-07-24,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,30,July
+2026-07-24,37,"Shin Ramyun","Ramen & Noodles",223,Friday,30,July
+2026-07-24,38,Pepero,"Snacks & Chocolates",62,Friday,30,July
+2026-07-24,39,"Lotte Binch","Snacks & Chocolates",85,Friday,30,July
+2026-07-24,40,Snickers,"Snacks & Chocolates",76,Friday,30,July
+2026-07-24,41,Mars,"Snacks & Chocolates",170,Friday,30,July
+2026-07-24,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,30,July
+2026-07-24,43,"Sesame Oil","Cooking Ingredients",339,Friday,30,July
+2026-07-24,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,30,July
+2026-07-24,45,Nori,"Cooking Ingredients",313,Friday,30,July
+2026-07-24,46,Kimchi,"Cooking Ingredients",86,Friday,30,July
+2026-07-24,47,"Fish Cake","Cooking Ingredients",47,Friday,30,July
+2026-07-24,48,"Welch's Assorted Flavors",Beverages,172,Friday,30,July
+2026-07-24,49,"Pororo Assorted Flavors",Beverages,243,Friday,30,July
+2026-07-24,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,30,July
+2026-07-24,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,30,July
+2026-07-24,52,Sausage,"Meat & Canned Foods",95,Friday,30,July
+2026-07-24,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,30,July
+2026-07-25,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,30,July
+2026-07-25,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,30,July
+2026-07-25,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,30,July
+2026-07-25,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,30,July
+2026-07-25,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,30,July
+2026-07-25,32,"Buldak Black","Ramen & Noodles",0,Saturday,30,July
+2026-07-25,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,30,July
+2026-07-25,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,30,July
+2026-07-25,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,30,July
+2026-07-25,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,30,July
+2026-07-25,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,30,July
+2026-07-25,38,Pepero,"Snacks & Chocolates",62,Saturday,30,July
+2026-07-25,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,30,July
+2026-07-25,40,Snickers,"Snacks & Chocolates",76,Saturday,30,July
+2026-07-25,41,Mars,"Snacks & Chocolates",170,Saturday,30,July
+2026-07-25,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,30,July
+2026-07-25,43,"Sesame Oil","Cooking Ingredients",339,Saturday,30,July
+2026-07-25,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,30,July
+2026-07-25,45,Nori,"Cooking Ingredients",313,Saturday,30,July
+2026-07-25,46,Kimchi,"Cooking Ingredients",86,Saturday,30,July
+2026-07-25,47,"Fish Cake","Cooking Ingredients",47,Saturday,30,July
+2026-07-25,48,"Welch's Assorted Flavors",Beverages,172,Saturday,30,July
+2026-07-25,49,"Pororo Assorted Flavors",Beverages,243,Saturday,30,July
+2026-07-25,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,30,July
+2026-07-25,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,30,July
+2026-07-25,52,Sausage,"Meat & Canned Foods",95,Saturday,30,July
+2026-07-25,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,30,July
+2026-07-26,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,30,July
+2026-07-26,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,30,July
+2026-07-26,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,30,July
+2026-07-26,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,30,July
+2026-07-26,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,30,July
+2026-07-26,32,"Buldak Black","Ramen & Noodles",0,Sunday,30,July
+2026-07-26,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,30,July
+2026-07-26,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,30,July
+2026-07-26,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,30,July
+2026-07-26,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,30,July
+2026-07-26,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,30,July
+2026-07-26,38,Pepero,"Snacks & Chocolates",62,Sunday,30,July
+2026-07-26,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,30,July
+2026-07-26,40,Snickers,"Snacks & Chocolates",76,Sunday,30,July
+2026-07-26,41,Mars,"Snacks & Chocolates",170,Sunday,30,July
+2026-07-26,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,30,July
+2026-07-26,43,"Sesame Oil","Cooking Ingredients",339,Sunday,30,July
+2026-07-26,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,30,July
+2026-07-26,45,Nori,"Cooking Ingredients",313,Sunday,30,July
+2026-07-26,46,Kimchi,"Cooking Ingredients",86,Sunday,30,July
+2026-07-26,47,"Fish Cake","Cooking Ingredients",47,Sunday,30,July
+2026-07-26,48,"Welch's Assorted Flavors",Beverages,172,Sunday,30,July
+2026-07-26,49,"Pororo Assorted Flavors",Beverages,243,Sunday,30,July
+2026-07-26,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,30,July
+2026-07-26,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,30,July
+2026-07-26,52,Sausage,"Meat & Canned Foods",95,Sunday,30,July
+2026-07-26,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,30,July
+2026-07-27,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,31,July
+2026-07-27,28,"Buldak Cheese","Ramen & Noodles",58,Monday,31,July
+2026-07-27,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,31,July
+2026-07-27,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,31,July
+2026-07-27,31,"Buldak Rosé","Ramen & Noodles",90,Monday,31,July
+2026-07-27,32,"Buldak Black","Ramen & Noodles",0,Monday,31,July
+2026-07-27,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,31,July
+2026-07-27,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,31,July
+2026-07-27,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,31,July
+2026-07-27,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,31,July
+2026-07-27,37,"Shin Ramyun","Ramen & Noodles",223,Monday,31,July
+2026-07-27,38,Pepero,"Snacks & Chocolates",62,Monday,31,July
+2026-07-27,39,"Lotte Binch","Snacks & Chocolates",85,Monday,31,July
+2026-07-27,40,Snickers,"Snacks & Chocolates",76,Monday,31,July
+2026-07-27,41,Mars,"Snacks & Chocolates",170,Monday,31,July
+2026-07-27,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,31,July
+2026-07-27,43,"Sesame Oil","Cooking Ingredients",339,Monday,31,July
+2026-07-27,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,31,July
+2026-07-27,45,Nori,"Cooking Ingredients",313,Monday,31,July
+2026-07-27,46,Kimchi,"Cooking Ingredients",86,Monday,31,July
+2026-07-27,47,"Fish Cake","Cooking Ingredients",47,Monday,31,July
+2026-07-27,48,"Welch's Assorted Flavors",Beverages,172,Monday,31,July
+2026-07-27,49,"Pororo Assorted Flavors",Beverages,243,Monday,31,July
+2026-07-27,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,31,July
+2026-07-27,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,31,July
+2026-07-27,52,Sausage,"Meat & Canned Foods",95,Monday,31,July
+2026-07-27,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,31,July
+2026-07-28,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,31,July
+2026-07-28,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,31,July
+2026-07-28,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,31,July
+2026-07-28,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,31,July
+2026-07-28,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,31,July
+2026-07-28,32,"Buldak Black","Ramen & Noodles",0,Tuesday,31,July
+2026-07-28,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,31,July
+2026-07-28,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,31,July
+2026-07-28,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,31,July
+2026-07-28,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,31,July
+2026-07-28,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,31,July
+2026-07-28,38,Pepero,"Snacks & Chocolates",62,Tuesday,31,July
+2026-07-28,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,31,July
+2026-07-28,40,Snickers,"Snacks & Chocolates",76,Tuesday,31,July
+2026-07-28,41,Mars,"Snacks & Chocolates",170,Tuesday,31,July
+2026-07-28,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,31,July
+2026-07-28,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,31,July
+2026-07-28,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,31,July
+2026-07-28,45,Nori,"Cooking Ingredients",313,Tuesday,31,July
+2026-07-28,46,Kimchi,"Cooking Ingredients",86,Tuesday,31,July
+2026-07-28,47,"Fish Cake","Cooking Ingredients",47,Tuesday,31,July
+2026-07-28,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,31,July
+2026-07-28,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,31,July
+2026-07-28,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,31,July
+2026-07-28,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,31,July
+2026-07-28,52,Sausage,"Meat & Canned Foods",95,Tuesday,31,July
+2026-07-28,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,31,July
+2026-07-29,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,31,July
+2026-07-29,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,31,July
+2026-07-29,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,31,July
+2026-07-29,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,31,July
+2026-07-29,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,31,July
+2026-07-29,32,"Buldak Black","Ramen & Noodles",0,Wednesday,31,July
+2026-07-29,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,31,July
+2026-07-29,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,31,July
+2026-07-29,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,31,July
+2026-07-29,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,31,July
+2026-07-29,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,31,July
+2026-07-29,38,Pepero,"Snacks & Chocolates",62,Wednesday,31,July
+2026-07-29,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,31,July
+2026-07-29,40,Snickers,"Snacks & Chocolates",76,Wednesday,31,July
+2026-07-29,41,Mars,"Snacks & Chocolates",170,Wednesday,31,July
+2026-07-29,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,31,July
+2026-07-29,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,31,July
+2026-07-29,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,31,July
+2026-07-29,45,Nori,"Cooking Ingredients",313,Wednesday,31,July
+2026-07-29,46,Kimchi,"Cooking Ingredients",86,Wednesday,31,July
+2026-07-29,47,"Fish Cake","Cooking Ingredients",47,Wednesday,31,July
+2026-07-29,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,31,July
+2026-07-29,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,31,July
+2026-07-29,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,31,July
+2026-07-29,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,31,July
+2026-07-29,52,Sausage,"Meat & Canned Foods",95,Wednesday,31,July
+2026-07-29,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,31,July
+2026-07-30,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,31,July
+2026-07-30,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,31,July
+2026-07-30,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,31,July
+2026-07-30,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,31,July
+2026-07-30,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,31,July
+2026-07-30,32,"Buldak Black","Ramen & Noodles",0,Thursday,31,July
+2026-07-30,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,31,July
+2026-07-30,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,31,July
+2026-07-30,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,31,July
+2026-07-30,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,31,July
+2026-07-30,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,31,July
+2026-07-30,38,Pepero,"Snacks & Chocolates",62,Thursday,31,July
+2026-07-30,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,31,July
+2026-07-30,40,Snickers,"Snacks & Chocolates",76,Thursday,31,July
+2026-07-30,41,Mars,"Snacks & Chocolates",170,Thursday,31,July
+2026-07-30,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,31,July
+2026-07-30,43,"Sesame Oil","Cooking Ingredients",339,Thursday,31,July
+2026-07-30,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,31,July
+2026-07-30,45,Nori,"Cooking Ingredients",313,Thursday,31,July
+2026-07-30,46,Kimchi,"Cooking Ingredients",86,Thursday,31,July
+2026-07-30,47,"Fish Cake","Cooking Ingredients",47,Thursday,31,July
+2026-07-30,48,"Welch's Assorted Flavors",Beverages,172,Thursday,31,July
+2026-07-30,49,"Pororo Assorted Flavors",Beverages,243,Thursday,31,July
+2026-07-30,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,31,July
+2026-07-30,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,31,July
+2026-07-30,52,Sausage,"Meat & Canned Foods",95,Thursday,31,July
+2026-07-30,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,31,July
+2026-07-31,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,31,July
+2026-07-31,28,"Buldak Cheese","Ramen & Noodles",58,Friday,31,July
+2026-07-31,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,31,July
+2026-07-31,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,31,July
+2026-07-31,31,"Buldak Rosé","Ramen & Noodles",90,Friday,31,July
+2026-07-31,32,"Buldak Black","Ramen & Noodles",0,Friday,31,July
+2026-07-31,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,31,July
+2026-07-31,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,31,July
+2026-07-31,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,31,July
+2026-07-31,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,31,July
+2026-07-31,37,"Shin Ramyun","Ramen & Noodles",223,Friday,31,July
+2026-07-31,38,Pepero,"Snacks & Chocolates",62,Friday,31,July
+2026-07-31,39,"Lotte Binch","Snacks & Chocolates",85,Friday,31,July
+2026-07-31,40,Snickers,"Snacks & Chocolates",76,Friday,31,July
+2026-07-31,41,Mars,"Snacks & Chocolates",170,Friday,31,July
+2026-07-31,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,31,July
+2026-07-31,43,"Sesame Oil","Cooking Ingredients",339,Friday,31,July
+2026-07-31,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,31,July
+2026-07-31,45,Nori,"Cooking Ingredients",313,Friday,31,July
+2026-07-31,46,Kimchi,"Cooking Ingredients",86,Friday,31,July
+2026-07-31,47,"Fish Cake","Cooking Ingredients",47,Friday,31,July
+2026-07-31,48,"Welch's Assorted Flavors",Beverages,172,Friday,31,July
+2026-07-31,49,"Pororo Assorted Flavors",Beverages,243,Friday,31,July
+2026-07-31,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,31,July
+2026-07-31,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,31,July
+2026-07-31,52,Sausage,"Meat & Canned Foods",95,Friday,31,July
+2026-07-31,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,31,July
+2026-08-01,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,31,August
+2026-08-01,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,31,August
+2026-08-01,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,31,August
+2026-08-01,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,31,August
+2026-08-01,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,31,August
+2026-08-01,32,"Buldak Black","Ramen & Noodles",0,Saturday,31,August
+2026-08-01,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,31,August
+2026-08-01,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,31,August
+2026-08-01,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,31,August
+2026-08-01,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,31,August
+2026-08-01,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,31,August
+2026-08-01,38,Pepero,"Snacks & Chocolates",62,Saturday,31,August
+2026-08-01,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,31,August
+2026-08-01,40,Snickers,"Snacks & Chocolates",76,Saturday,31,August
+2026-08-01,41,Mars,"Snacks & Chocolates",170,Saturday,31,August
+2026-08-01,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,31,August
+2026-08-01,43,"Sesame Oil","Cooking Ingredients",339,Saturday,31,August
+2026-08-01,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,31,August
+2026-08-01,45,Nori,"Cooking Ingredients",313,Saturday,31,August
+2026-08-01,46,Kimchi,"Cooking Ingredients",86,Saturday,31,August
+2026-08-01,47,"Fish Cake","Cooking Ingredients",47,Saturday,31,August
+2026-08-01,48,"Welch's Assorted Flavors",Beverages,172,Saturday,31,August
+2026-08-01,49,"Pororo Assorted Flavors",Beverages,243,Saturday,31,August
+2026-08-01,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,31,August
+2026-08-01,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,31,August
+2026-08-01,52,Sausage,"Meat & Canned Foods",95,Saturday,31,August
+2026-08-01,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,31,August
+2026-08-02,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,31,August
+2026-08-02,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,31,August
+2026-08-02,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,31,August
+2026-08-02,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,31,August
+2026-08-02,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,31,August
+2026-08-02,32,"Buldak Black","Ramen & Noodles",0,Sunday,31,August
+2026-08-02,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,31,August
+2026-08-02,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,31,August
+2026-08-02,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,31,August
+2026-08-02,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,31,August
+2026-08-02,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,31,August
+2026-08-02,38,Pepero,"Snacks & Chocolates",62,Sunday,31,August
+2026-08-02,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,31,August
+2026-08-02,40,Snickers,"Snacks & Chocolates",76,Sunday,31,August
+2026-08-02,41,Mars,"Snacks & Chocolates",170,Sunday,31,August
+2026-08-02,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,31,August
+2026-08-02,43,"Sesame Oil","Cooking Ingredients",339,Sunday,31,August
+2026-08-02,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,31,August
+2026-08-02,45,Nori,"Cooking Ingredients",313,Sunday,31,August
+2026-08-02,46,Kimchi,"Cooking Ingredients",86,Sunday,31,August
+2026-08-02,47,"Fish Cake","Cooking Ingredients",47,Sunday,31,August
+2026-08-02,48,"Welch's Assorted Flavors",Beverages,172,Sunday,31,August
+2026-08-02,49,"Pororo Assorted Flavors",Beverages,243,Sunday,31,August
+2026-08-02,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,31,August
+2026-08-02,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,31,August
+2026-08-02,52,Sausage,"Meat & Canned Foods",95,Sunday,31,August
+2026-08-02,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,31,August
+2026-08-03,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,32,August
+2026-08-03,28,"Buldak Cheese","Ramen & Noodles",58,Monday,32,August
+2026-08-03,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,32,August
+2026-08-03,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,32,August
+2026-08-03,31,"Buldak Rosé","Ramen & Noodles",90,Monday,32,August
+2026-08-03,32,"Buldak Black","Ramen & Noodles",0,Monday,32,August
+2026-08-03,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,32,August
+2026-08-03,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,32,August
+2026-08-03,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,32,August
+2026-08-03,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,32,August
+2026-08-03,37,"Shin Ramyun","Ramen & Noodles",223,Monday,32,August
+2026-08-03,38,Pepero,"Snacks & Chocolates",62,Monday,32,August
+2026-08-03,39,"Lotte Binch","Snacks & Chocolates",85,Monday,32,August
+2026-08-03,40,Snickers,"Snacks & Chocolates",76,Monday,32,August
+2026-08-03,41,Mars,"Snacks & Chocolates",170,Monday,32,August
+2026-08-03,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,32,August
+2026-08-03,43,"Sesame Oil","Cooking Ingredients",339,Monday,32,August
+2026-08-03,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,32,August
+2026-08-03,45,Nori,"Cooking Ingredients",313,Monday,32,August
+2026-08-03,46,Kimchi,"Cooking Ingredients",86,Monday,32,August
+2026-08-03,47,"Fish Cake","Cooking Ingredients",47,Monday,32,August
+2026-08-03,48,"Welch's Assorted Flavors",Beverages,172,Monday,32,August
+2026-08-03,49,"Pororo Assorted Flavors",Beverages,243,Monday,32,August
+2026-08-03,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,32,August
+2026-08-03,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,32,August
+2026-08-03,52,Sausage,"Meat & Canned Foods",95,Monday,32,August
+2026-08-03,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,32,August
+2026-08-04,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,32,August
+2026-08-04,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,32,August
+2026-08-04,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,32,August
+2026-08-04,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,32,August
+2026-08-04,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,32,August
+2026-08-04,32,"Buldak Black","Ramen & Noodles",0,Tuesday,32,August
+2026-08-04,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,32,August
+2026-08-04,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,32,August
+2026-08-04,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,32,August
+2026-08-04,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,32,August
+2026-08-04,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,32,August
+2026-08-04,38,Pepero,"Snacks & Chocolates",62,Tuesday,32,August
+2026-08-04,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,32,August
+2026-08-04,40,Snickers,"Snacks & Chocolates",76,Tuesday,32,August
+2026-08-04,41,Mars,"Snacks & Chocolates",170,Tuesday,32,August
+2026-08-04,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,32,August
+2026-08-04,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,32,August
+2026-08-04,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,32,August
+2026-08-04,45,Nori,"Cooking Ingredients",313,Tuesday,32,August
+2026-08-04,46,Kimchi,"Cooking Ingredients",86,Tuesday,32,August
+2026-08-04,47,"Fish Cake","Cooking Ingredients",47,Tuesday,32,August
+2026-08-04,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,32,August
+2026-08-04,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,32,August
+2026-08-04,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,32,August
+2026-08-04,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,32,August
+2026-08-04,52,Sausage,"Meat & Canned Foods",95,Tuesday,32,August
+2026-08-04,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,32,August
+2026-08-05,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,32,August
+2026-08-05,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,32,August
+2026-08-05,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,32,August
+2026-08-05,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,32,August
+2026-08-05,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,32,August
+2026-08-05,32,"Buldak Black","Ramen & Noodles",0,Wednesday,32,August
+2026-08-05,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,32,August
+2026-08-05,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,32,August
+2026-08-05,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,32,August
+2026-08-05,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,32,August
+2026-08-05,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,32,August
+2026-08-05,38,Pepero,"Snacks & Chocolates",62,Wednesday,32,August
+2026-08-05,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,32,August
+2026-08-05,40,Snickers,"Snacks & Chocolates",76,Wednesday,32,August
+2026-08-05,41,Mars,"Snacks & Chocolates",170,Wednesday,32,August
+2026-08-05,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,32,August
+2026-08-05,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,32,August
+2026-08-05,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,32,August
+2026-08-05,45,Nori,"Cooking Ingredients",313,Wednesday,32,August
+2026-08-05,46,Kimchi,"Cooking Ingredients",86,Wednesday,32,August
+2026-08-05,47,"Fish Cake","Cooking Ingredients",47,Wednesday,32,August
+2026-08-05,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,32,August
+2026-08-05,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,32,August
+2026-08-05,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,32,August
+2026-08-05,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,32,August
+2026-08-05,52,Sausage,"Meat & Canned Foods",95,Wednesday,32,August
+2026-08-05,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,32,August
+2026-08-06,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,32,August
+2026-08-06,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,32,August
+2026-08-06,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,32,August
+2026-08-06,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,32,August
+2026-08-06,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,32,August
+2026-08-06,32,"Buldak Black","Ramen & Noodles",0,Thursday,32,August
+2026-08-06,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,32,August
+2026-08-06,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,32,August
+2026-08-06,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,32,August
+2026-08-06,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,32,August
+2026-08-06,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,32,August
+2026-08-06,38,Pepero,"Snacks & Chocolates",62,Thursday,32,August
+2026-08-06,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,32,August
+2026-08-06,40,Snickers,"Snacks & Chocolates",76,Thursday,32,August
+2026-08-06,41,Mars,"Snacks & Chocolates",170,Thursday,32,August
+2026-08-06,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,32,August
+2026-08-06,43,"Sesame Oil","Cooking Ingredients",339,Thursday,32,August
+2026-08-06,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,32,August
+2026-08-06,45,Nori,"Cooking Ingredients",313,Thursday,32,August
+2026-08-06,46,Kimchi,"Cooking Ingredients",86,Thursday,32,August
+2026-08-06,47,"Fish Cake","Cooking Ingredients",47,Thursday,32,August
+2026-08-06,48,"Welch's Assorted Flavors",Beverages,172,Thursday,32,August
+2026-08-06,49,"Pororo Assorted Flavors",Beverages,243,Thursday,32,August
+2026-08-06,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,32,August
+2026-08-06,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,32,August
+2026-08-06,52,Sausage,"Meat & Canned Foods",95,Thursday,32,August
+2026-08-06,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,32,August
+2026-08-07,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,32,August
+2026-08-07,28,"Buldak Cheese","Ramen & Noodles",58,Friday,32,August
+2026-08-07,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,32,August
+2026-08-07,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,32,August
+2026-08-07,31,"Buldak Rosé","Ramen & Noodles",90,Friday,32,August
+2026-08-07,32,"Buldak Black","Ramen & Noodles",0,Friday,32,August
+2026-08-07,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,32,August
+2026-08-07,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,32,August
+2026-08-07,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,32,August
+2026-08-07,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,32,August
+2026-08-07,37,"Shin Ramyun","Ramen & Noodles",223,Friday,32,August
+2026-08-07,38,Pepero,"Snacks & Chocolates",62,Friday,32,August
+2026-08-07,39,"Lotte Binch","Snacks & Chocolates",85,Friday,32,August
+2026-08-07,40,Snickers,"Snacks & Chocolates",76,Friday,32,August
+2026-08-07,41,Mars,"Snacks & Chocolates",170,Friday,32,August
+2026-08-07,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,32,August
+2026-08-07,43,"Sesame Oil","Cooking Ingredients",339,Friday,32,August
+2026-08-07,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,32,August
+2026-08-07,45,Nori,"Cooking Ingredients",313,Friday,32,August
+2026-08-07,46,Kimchi,"Cooking Ingredients",86,Friday,32,August
+2026-08-07,47,"Fish Cake","Cooking Ingredients",47,Friday,32,August
+2026-08-07,48,"Welch's Assorted Flavors",Beverages,172,Friday,32,August
+2026-08-07,49,"Pororo Assorted Flavors",Beverages,243,Friday,32,August
+2026-08-07,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,32,August
+2026-08-07,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,32,August
+2026-08-07,52,Sausage,"Meat & Canned Foods",95,Friday,32,August
+2026-08-07,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,32,August
+2026-08-08,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,32,August
+2026-08-08,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,32,August
+2026-08-08,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,32,August
+2026-08-08,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,32,August
+2026-08-08,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,32,August
+2026-08-08,32,"Buldak Black","Ramen & Noodles",0,Saturday,32,August
+2026-08-08,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,32,August
+2026-08-08,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,32,August
+2026-08-08,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,32,August
+2026-08-08,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,32,August
+2026-08-08,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,32,August
+2026-08-08,38,Pepero,"Snacks & Chocolates",62,Saturday,32,August
+2026-08-08,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,32,August
+2026-08-08,40,Snickers,"Snacks & Chocolates",76,Saturday,32,August
+2026-08-08,41,Mars,"Snacks & Chocolates",170,Saturday,32,August
+2026-08-08,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,32,August
+2026-08-08,43,"Sesame Oil","Cooking Ingredients",339,Saturday,32,August
+2026-08-08,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,32,August
+2026-08-08,45,Nori,"Cooking Ingredients",313,Saturday,32,August
+2026-08-08,46,Kimchi,"Cooking Ingredients",86,Saturday,32,August
+2026-08-08,47,"Fish Cake","Cooking Ingredients",47,Saturday,32,August
+2026-08-08,48,"Welch's Assorted Flavors",Beverages,172,Saturday,32,August
+2026-08-08,49,"Pororo Assorted Flavors",Beverages,243,Saturday,32,August
+2026-08-08,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,32,August
+2026-08-08,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,32,August
+2026-08-08,52,Sausage,"Meat & Canned Foods",95,Saturday,32,August
+2026-08-08,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,32,August
+2026-08-09,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,32,August
+2026-08-09,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,32,August
+2026-08-09,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,32,August
+2026-08-09,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,32,August
+2026-08-09,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,32,August
+2026-08-09,32,"Buldak Black","Ramen & Noodles",0,Sunday,32,August
+2026-08-09,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,32,August
+2026-08-09,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,32,August
+2026-08-09,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,32,August
+2026-08-09,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,32,August
+2026-08-09,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,32,August
+2026-08-09,38,Pepero,"Snacks & Chocolates",62,Sunday,32,August
+2026-08-09,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,32,August
+2026-08-09,40,Snickers,"Snacks & Chocolates",76,Sunday,32,August
+2026-08-09,41,Mars,"Snacks & Chocolates",170,Sunday,32,August
+2026-08-09,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,32,August
+2026-08-09,43,"Sesame Oil","Cooking Ingredients",339,Sunday,32,August
+2026-08-09,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,32,August
+2026-08-09,45,Nori,"Cooking Ingredients",313,Sunday,32,August
+2026-08-09,46,Kimchi,"Cooking Ingredients",86,Sunday,32,August
+2026-08-09,47,"Fish Cake","Cooking Ingredients",47,Sunday,32,August
+2026-08-09,48,"Welch's Assorted Flavors",Beverages,172,Sunday,32,August
+2026-08-09,49,"Pororo Assorted Flavors",Beverages,243,Sunday,32,August
+2026-08-09,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,32,August
+2026-08-09,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,32,August
+2026-08-09,52,Sausage,"Meat & Canned Foods",95,Sunday,32,August
+2026-08-09,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,32,August
+2026-08-10,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,33,August
+2026-08-10,28,"Buldak Cheese","Ramen & Noodles",58,Monday,33,August
+2026-08-10,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,33,August
+2026-08-10,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,33,August
+2026-08-10,31,"Buldak Rosé","Ramen & Noodles",90,Monday,33,August
+2026-08-10,32,"Buldak Black","Ramen & Noodles",0,Monday,33,August
+2026-08-10,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,33,August
+2026-08-10,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,33,August
+2026-08-10,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,33,August
+2026-08-10,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,33,August
+2026-08-10,37,"Shin Ramyun","Ramen & Noodles",223,Monday,33,August
+2026-08-10,38,Pepero,"Snacks & Chocolates",62,Monday,33,August
+2026-08-10,39,"Lotte Binch","Snacks & Chocolates",85,Monday,33,August
+2026-08-10,40,Snickers,"Snacks & Chocolates",76,Monday,33,August
+2026-08-10,41,Mars,"Snacks & Chocolates",170,Monday,33,August
+2026-08-10,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,33,August
+2026-08-10,43,"Sesame Oil","Cooking Ingredients",339,Monday,33,August
+2026-08-10,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,33,August
+2026-08-10,45,Nori,"Cooking Ingredients",313,Monday,33,August
+2026-08-10,46,Kimchi,"Cooking Ingredients",86,Monday,33,August
+2026-08-10,47,"Fish Cake","Cooking Ingredients",47,Monday,33,August
+2026-08-10,48,"Welch's Assorted Flavors",Beverages,172,Monday,33,August
+2026-08-10,49,"Pororo Assorted Flavors",Beverages,243,Monday,33,August
+2026-08-10,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,33,August
+2026-08-10,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,33,August
+2026-08-10,52,Sausage,"Meat & Canned Foods",95,Monday,33,August
+2026-08-10,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,33,August
+2026-08-11,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,33,August
+2026-08-11,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,33,August
+2026-08-11,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,33,August
+2026-08-11,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,33,August
+2026-08-11,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,33,August
+2026-08-11,32,"Buldak Black","Ramen & Noodles",0,Tuesday,33,August
+2026-08-11,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,33,August
+2026-08-11,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,33,August
+2026-08-11,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,33,August
+2026-08-11,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,33,August
+2026-08-11,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,33,August
+2026-08-11,38,Pepero,"Snacks & Chocolates",62,Tuesday,33,August
+2026-08-11,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,33,August
+2026-08-11,40,Snickers,"Snacks & Chocolates",76,Tuesday,33,August
+2026-08-11,41,Mars,"Snacks & Chocolates",170,Tuesday,33,August
+2026-08-11,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,33,August
+2026-08-11,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,33,August
+2026-08-11,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,33,August
+2026-08-11,45,Nori,"Cooking Ingredients",313,Tuesday,33,August
+2026-08-11,46,Kimchi,"Cooking Ingredients",86,Tuesday,33,August
+2026-08-11,47,"Fish Cake","Cooking Ingredients",47,Tuesday,33,August
+2026-08-11,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,33,August
+2026-08-11,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,33,August
+2026-08-11,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,33,August
+2026-08-11,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,33,August
+2026-08-11,52,Sausage,"Meat & Canned Foods",95,Tuesday,33,August
+2026-08-11,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,33,August
+2026-08-12,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,33,August
+2026-08-12,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,33,August
+2026-08-12,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,33,August
+2026-08-12,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,33,August
+2026-08-12,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,33,August
+2026-08-12,32,"Buldak Black","Ramen & Noodles",0,Wednesday,33,August
+2026-08-12,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,33,August
+2026-08-12,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,33,August
+2026-08-12,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,33,August
+2026-08-12,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,33,August
+2026-08-12,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,33,August
+2026-08-12,38,Pepero,"Snacks & Chocolates",62,Wednesday,33,August
+2026-08-12,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,33,August
+2026-08-12,40,Snickers,"Snacks & Chocolates",76,Wednesday,33,August
+2026-08-12,41,Mars,"Snacks & Chocolates",170,Wednesday,33,August
+2026-08-12,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,33,August
+2026-08-12,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,33,August
+2026-08-12,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,33,August
+2026-08-12,45,Nori,"Cooking Ingredients",313,Wednesday,33,August
+2026-08-12,46,Kimchi,"Cooking Ingredients",86,Wednesday,33,August
+2026-08-12,47,"Fish Cake","Cooking Ingredients",47,Wednesday,33,August
+2026-08-12,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,33,August
+2026-08-12,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,33,August
+2026-08-12,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,33,August
+2026-08-12,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,33,August
+2026-08-12,52,Sausage,"Meat & Canned Foods",95,Wednesday,33,August
+2026-08-12,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,33,August
+2026-08-13,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,33,August
+2026-08-13,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,33,August
+2026-08-13,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,33,August
+2026-08-13,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,33,August
+2026-08-13,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,33,August
+2026-08-13,32,"Buldak Black","Ramen & Noodles",0,Thursday,33,August
+2026-08-13,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,33,August
+2026-08-13,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,33,August
+2026-08-13,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,33,August
+2026-08-13,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,33,August
+2026-08-13,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,33,August
+2026-08-13,38,Pepero,"Snacks & Chocolates",62,Thursday,33,August
+2026-08-13,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,33,August
+2026-08-13,40,Snickers,"Snacks & Chocolates",76,Thursday,33,August
+2026-08-13,41,Mars,"Snacks & Chocolates",170,Thursday,33,August
+2026-08-13,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,33,August
+2026-08-13,43,"Sesame Oil","Cooking Ingredients",339,Thursday,33,August
+2026-08-13,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,33,August
+2026-08-13,45,Nori,"Cooking Ingredients",313,Thursday,33,August
+2026-08-13,46,Kimchi,"Cooking Ingredients",86,Thursday,33,August
+2026-08-13,47,"Fish Cake","Cooking Ingredients",47,Thursday,33,August
+2026-08-13,48,"Welch's Assorted Flavors",Beverages,172,Thursday,33,August
+2026-08-13,49,"Pororo Assorted Flavors",Beverages,243,Thursday,33,August
+2026-08-13,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,33,August
+2026-08-13,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,33,August
+2026-08-13,52,Sausage,"Meat & Canned Foods",95,Thursday,33,August
+2026-08-13,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,33,August
+2026-08-14,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,33,August
+2026-08-14,28,"Buldak Cheese","Ramen & Noodles",58,Friday,33,August
+2026-08-14,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,33,August
+2026-08-14,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,33,August
+2026-08-14,31,"Buldak Rosé","Ramen & Noodles",90,Friday,33,August
+2026-08-14,32,"Buldak Black","Ramen & Noodles",0,Friday,33,August
+2026-08-14,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,33,August
+2026-08-14,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,33,August
+2026-08-14,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,33,August
+2026-08-14,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,33,August
+2026-08-14,37,"Shin Ramyun","Ramen & Noodles",223,Friday,33,August
+2026-08-14,38,Pepero,"Snacks & Chocolates",62,Friday,33,August
+2026-08-14,39,"Lotte Binch","Snacks & Chocolates",85,Friday,33,August
+2026-08-14,40,Snickers,"Snacks & Chocolates",76,Friday,33,August
+2026-08-14,41,Mars,"Snacks & Chocolates",170,Friday,33,August
+2026-08-14,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,33,August
+2026-08-14,43,"Sesame Oil","Cooking Ingredients",339,Friday,33,August
+2026-08-14,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,33,August
+2026-08-14,45,Nori,"Cooking Ingredients",313,Friday,33,August
+2026-08-14,46,Kimchi,"Cooking Ingredients",86,Friday,33,August
+2026-08-14,47,"Fish Cake","Cooking Ingredients",47,Friday,33,August
+2026-08-14,48,"Welch's Assorted Flavors",Beverages,172,Friday,33,August
+2026-08-14,49,"Pororo Assorted Flavors",Beverages,243,Friday,33,August
+2026-08-14,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,33,August
+2026-08-14,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,33,August
+2026-08-14,52,Sausage,"Meat & Canned Foods",95,Friday,33,August
+2026-08-14,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,33,August
+2026-08-15,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,33,August
+2026-08-15,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,33,August
+2026-08-15,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,33,August
+2026-08-15,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,33,August
+2026-08-15,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,33,August
+2026-08-15,32,"Buldak Black","Ramen & Noodles",0,Saturday,33,August
+2026-08-15,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,33,August
+2026-08-15,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,33,August
+2026-08-15,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,33,August
+2026-08-15,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,33,August
+2026-08-15,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,33,August
+2026-08-15,38,Pepero,"Snacks & Chocolates",62,Saturday,33,August
+2026-08-15,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,33,August
+2026-08-15,40,Snickers,"Snacks & Chocolates",76,Saturday,33,August
+2026-08-15,41,Mars,"Snacks & Chocolates",170,Saturday,33,August
+2026-08-15,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,33,August
+2026-08-15,43,"Sesame Oil","Cooking Ingredients",339,Saturday,33,August
+2026-08-15,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,33,August
+2026-08-15,45,Nori,"Cooking Ingredients",313,Saturday,33,August
+2026-08-15,46,Kimchi,"Cooking Ingredients",86,Saturday,33,August
+2026-08-15,47,"Fish Cake","Cooking Ingredients",47,Saturday,33,August
+2026-08-15,48,"Welch's Assorted Flavors",Beverages,172,Saturday,33,August
+2026-08-15,49,"Pororo Assorted Flavors",Beverages,243,Saturday,33,August
+2026-08-15,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,33,August
+2026-08-15,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,33,August
+2026-08-15,52,Sausage,"Meat & Canned Foods",95,Saturday,33,August
+2026-08-15,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,33,August
+2026-08-16,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,33,August
+2026-08-16,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,33,August
+2026-08-16,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,33,August
+2026-08-16,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,33,August
+2026-08-16,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,33,August
+2026-08-16,32,"Buldak Black","Ramen & Noodles",0,Sunday,33,August
+2026-08-16,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,33,August
+2026-08-16,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,33,August
+2026-08-16,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,33,August
+2026-08-16,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,33,August
+2026-08-16,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,33,August
+2026-08-16,38,Pepero,"Snacks & Chocolates",62,Sunday,33,August
+2026-08-16,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,33,August
+2026-08-16,40,Snickers,"Snacks & Chocolates",76,Sunday,33,August
+2026-08-16,41,Mars,"Snacks & Chocolates",170,Sunday,33,August
+2026-08-16,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,33,August
+2026-08-16,43,"Sesame Oil","Cooking Ingredients",339,Sunday,33,August
+2026-08-16,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,33,August
+2026-08-16,45,Nori,"Cooking Ingredients",313,Sunday,33,August
+2026-08-16,46,Kimchi,"Cooking Ingredients",86,Sunday,33,August
+2026-08-16,47,"Fish Cake","Cooking Ingredients",47,Sunday,33,August
+2026-08-16,48,"Welch's Assorted Flavors",Beverages,172,Sunday,33,August
+2026-08-16,49,"Pororo Assorted Flavors",Beverages,243,Sunday,33,August
+2026-08-16,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,33,August
+2026-08-16,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,33,August
+2026-08-16,52,Sausage,"Meat & Canned Foods",95,Sunday,33,August
+2026-08-16,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,33,August
+2026-08-17,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,34,August
+2026-08-17,28,"Buldak Cheese","Ramen & Noodles",58,Monday,34,August
+2026-08-17,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,34,August
+2026-08-17,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,34,August
+2026-08-17,31,"Buldak Rosé","Ramen & Noodles",90,Monday,34,August
+2026-08-17,32,"Buldak Black","Ramen & Noodles",0,Monday,34,August
+2026-08-17,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,34,August
+2026-08-17,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,34,August
+2026-08-17,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,34,August
+2026-08-17,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,34,August
+2026-08-17,37,"Shin Ramyun","Ramen & Noodles",223,Monday,34,August
+2026-08-17,38,Pepero,"Snacks & Chocolates",62,Monday,34,August
+2026-08-17,39,"Lotte Binch","Snacks & Chocolates",85,Monday,34,August
+2026-08-17,40,Snickers,"Snacks & Chocolates",76,Monday,34,August
+2026-08-17,41,Mars,"Snacks & Chocolates",170,Monday,34,August
+2026-08-17,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,34,August
+2026-08-17,43,"Sesame Oil","Cooking Ingredients",339,Monday,34,August
+2026-08-17,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,34,August
+2026-08-17,45,Nori,"Cooking Ingredients",313,Monday,34,August
+2026-08-17,46,Kimchi,"Cooking Ingredients",86,Monday,34,August
+2026-08-17,47,"Fish Cake","Cooking Ingredients",47,Monday,34,August
+2026-08-17,48,"Welch's Assorted Flavors",Beverages,172,Monday,34,August
+2026-08-17,49,"Pororo Assorted Flavors",Beverages,243,Monday,34,August
+2026-08-17,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,34,August
+2026-08-17,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,34,August
+2026-08-17,52,Sausage,"Meat & Canned Foods",95,Monday,34,August
+2026-08-17,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,34,August
+2026-08-18,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,34,August
+2026-08-18,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,34,August
+2026-08-18,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,34,August
+2026-08-18,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,34,August
+2026-08-18,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,34,August
+2026-08-18,32,"Buldak Black","Ramen & Noodles",0,Tuesday,34,August
+2026-08-18,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,34,August
+2026-08-18,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,34,August
+2026-08-18,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,34,August
+2026-08-18,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,34,August
+2026-08-18,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,34,August
+2026-08-18,38,Pepero,"Snacks & Chocolates",62,Tuesday,34,August
+2026-08-18,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,34,August
+2026-08-18,40,Snickers,"Snacks & Chocolates",76,Tuesday,34,August
+2026-08-18,41,Mars,"Snacks & Chocolates",170,Tuesday,34,August
+2026-08-18,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,34,August
+2026-08-18,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,34,August
+2026-08-18,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,34,August
+2026-08-18,45,Nori,"Cooking Ingredients",313,Tuesday,34,August
+2026-08-18,46,Kimchi,"Cooking Ingredients",86,Tuesday,34,August
+2026-08-18,47,"Fish Cake","Cooking Ingredients",47,Tuesday,34,August
+2026-08-18,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,34,August
+2026-08-18,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,34,August
+2026-08-18,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,34,August
+2026-08-18,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,34,August
+2026-08-18,52,Sausage,"Meat & Canned Foods",95,Tuesday,34,August
+2026-08-18,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,34,August
+2026-08-19,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,34,August
+2026-08-19,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,34,August
+2026-08-19,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,34,August
+2026-08-19,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,34,August
+2026-08-19,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,34,August
+2026-08-19,32,"Buldak Black","Ramen & Noodles",0,Wednesday,34,August
+2026-08-19,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,34,August
+2026-08-19,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,34,August
+2026-08-19,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,34,August
+2026-08-19,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,34,August
+2026-08-19,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,34,August
+2026-08-19,38,Pepero,"Snacks & Chocolates",62,Wednesday,34,August
+2026-08-19,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,34,August
+2026-08-19,40,Snickers,"Snacks & Chocolates",76,Wednesday,34,August
+2026-08-19,41,Mars,"Snacks & Chocolates",170,Wednesday,34,August
+2026-08-19,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,34,August
+2026-08-19,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,34,August
+2026-08-19,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,34,August
+2026-08-19,45,Nori,"Cooking Ingredients",313,Wednesday,34,August
+2026-08-19,46,Kimchi,"Cooking Ingredients",86,Wednesday,34,August
+2026-08-19,47,"Fish Cake","Cooking Ingredients",47,Wednesday,34,August
+2026-08-19,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,34,August
+2026-08-19,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,34,August
+2026-08-19,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,34,August
+2026-08-19,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,34,August
+2026-08-19,52,Sausage,"Meat & Canned Foods",95,Wednesday,34,August
+2026-08-19,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,34,August
+2026-08-20,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,34,August
+2026-08-20,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,34,August
+2026-08-20,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,34,August
+2026-08-20,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,34,August
+2026-08-20,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,34,August
+2026-08-20,32,"Buldak Black","Ramen & Noodles",0,Thursday,34,August
+2026-08-20,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,34,August
+2026-08-20,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,34,August
+2026-08-20,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,34,August
+2026-08-20,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,34,August
+2026-08-20,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,34,August
+2026-08-20,38,Pepero,"Snacks & Chocolates",62,Thursday,34,August
+2026-08-20,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,34,August
+2026-08-20,40,Snickers,"Snacks & Chocolates",76,Thursday,34,August
+2026-08-20,41,Mars,"Snacks & Chocolates",170,Thursday,34,August
+2026-08-20,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,34,August
+2026-08-20,43,"Sesame Oil","Cooking Ingredients",339,Thursday,34,August
+2026-08-20,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,34,August
+2026-08-20,45,Nori,"Cooking Ingredients",313,Thursday,34,August
+2026-08-20,46,Kimchi,"Cooking Ingredients",86,Thursday,34,August
+2026-08-20,47,"Fish Cake","Cooking Ingredients",47,Thursday,34,August
+2026-08-20,48,"Welch's Assorted Flavors",Beverages,172,Thursday,34,August
+2026-08-20,49,"Pororo Assorted Flavors",Beverages,243,Thursday,34,August
+2026-08-20,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,34,August
+2026-08-20,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,34,August
+2026-08-20,52,Sausage,"Meat & Canned Foods",95,Thursday,34,August
+2026-08-20,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,34,August
+2026-08-21,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,34,August
+2026-08-21,28,"Buldak Cheese","Ramen & Noodles",58,Friday,34,August
+2026-08-21,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,34,August
+2026-08-21,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,34,August
+2026-08-21,31,"Buldak Rosé","Ramen & Noodles",90,Friday,34,August
+2026-08-21,32,"Buldak Black","Ramen & Noodles",0,Friday,34,August
+2026-08-21,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,34,August
+2026-08-21,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,34,August
+2026-08-21,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,34,August
+2026-08-21,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,34,August
+2026-08-21,37,"Shin Ramyun","Ramen & Noodles",223,Friday,34,August
+2026-08-21,38,Pepero,"Snacks & Chocolates",62,Friday,34,August
+2026-08-21,39,"Lotte Binch","Snacks & Chocolates",85,Friday,34,August
+2026-08-21,40,Snickers,"Snacks & Chocolates",76,Friday,34,August
+2026-08-21,41,Mars,"Snacks & Chocolates",170,Friday,34,August
+2026-08-21,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,34,August
+2026-08-21,43,"Sesame Oil","Cooking Ingredients",339,Friday,34,August
+2026-08-21,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,34,August
+2026-08-21,45,Nori,"Cooking Ingredients",313,Friday,34,August
+2026-08-21,46,Kimchi,"Cooking Ingredients",86,Friday,34,August
+2026-08-21,47,"Fish Cake","Cooking Ingredients",47,Friday,34,August
+2026-08-21,48,"Welch's Assorted Flavors",Beverages,172,Friday,34,August
+2026-08-21,49,"Pororo Assorted Flavors",Beverages,243,Friday,34,August
+2026-08-21,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,34,August
+2026-08-21,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,34,August
+2026-08-21,52,Sausage,"Meat & Canned Foods",95,Friday,34,August
+2026-08-21,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,34,August
+2026-08-22,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,34,August
+2026-08-22,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,34,August
+2026-08-22,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,34,August
+2026-08-22,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,34,August
+2026-08-22,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,34,August
+2026-08-22,32,"Buldak Black","Ramen & Noodles",0,Saturday,34,August
+2026-08-22,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,34,August
+2026-08-22,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,34,August
+2026-08-22,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,34,August
+2026-08-22,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,34,August
+2026-08-22,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,34,August
+2026-08-22,38,Pepero,"Snacks & Chocolates",62,Saturday,34,August
+2026-08-22,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,34,August
+2026-08-22,40,Snickers,"Snacks & Chocolates",76,Saturday,34,August
+2026-08-22,41,Mars,"Snacks & Chocolates",170,Saturday,34,August
+2026-08-22,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,34,August
+2026-08-22,43,"Sesame Oil","Cooking Ingredients",339,Saturday,34,August
+2026-08-22,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,34,August
+2026-08-22,45,Nori,"Cooking Ingredients",313,Saturday,34,August
+2026-08-22,46,Kimchi,"Cooking Ingredients",86,Saturday,34,August
+2026-08-22,47,"Fish Cake","Cooking Ingredients",47,Saturday,34,August
+2026-08-22,48,"Welch's Assorted Flavors",Beverages,172,Saturday,34,August
+2026-08-22,49,"Pororo Assorted Flavors",Beverages,243,Saturday,34,August
+2026-08-22,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,34,August
+2026-08-22,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,34,August
+2026-08-22,52,Sausage,"Meat & Canned Foods",95,Saturday,34,August
+2026-08-22,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,34,August
+2026-08-23,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,34,August
+2026-08-23,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,34,August
+2026-08-23,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,34,August
+2026-08-23,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,34,August
+2026-08-23,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,34,August
+2026-08-23,32,"Buldak Black","Ramen & Noodles",0,Sunday,34,August
+2026-08-23,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,34,August
+2026-08-23,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,34,August
+2026-08-23,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,34,August
+2026-08-23,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,34,August
+2026-08-23,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,34,August
+2026-08-23,38,Pepero,"Snacks & Chocolates",62,Sunday,34,August
+2026-08-23,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,34,August
+2026-08-23,40,Snickers,"Snacks & Chocolates",76,Sunday,34,August
+2026-08-23,41,Mars,"Snacks & Chocolates",170,Sunday,34,August
+2026-08-23,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,34,August
+2026-08-23,43,"Sesame Oil","Cooking Ingredients",339,Sunday,34,August
+2026-08-23,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,34,August
+2026-08-23,45,Nori,"Cooking Ingredients",313,Sunday,34,August
+2026-08-23,46,Kimchi,"Cooking Ingredients",86,Sunday,34,August
+2026-08-23,47,"Fish Cake","Cooking Ingredients",47,Sunday,34,August
+2026-08-23,48,"Welch's Assorted Flavors",Beverages,172,Sunday,34,August
+2026-08-23,49,"Pororo Assorted Flavors",Beverages,243,Sunday,34,August
+2026-08-23,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,34,August
+2026-08-23,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,34,August
+2026-08-23,52,Sausage,"Meat & Canned Foods",95,Sunday,34,August
+2026-08-23,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,34,August
+2026-08-24,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,35,August
+2026-08-24,28,"Buldak Cheese","Ramen & Noodles",58,Monday,35,August
+2026-08-24,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,35,August
+2026-08-24,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,35,August
+2026-08-24,31,"Buldak Rosé","Ramen & Noodles",90,Monday,35,August
+2026-08-24,32,"Buldak Black","Ramen & Noodles",0,Monday,35,August
+2026-08-24,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,35,August
+2026-08-24,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,35,August
+2026-08-24,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,35,August
+2026-08-24,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,35,August
+2026-08-24,37,"Shin Ramyun","Ramen & Noodles",223,Monday,35,August
+2026-08-24,38,Pepero,"Snacks & Chocolates",62,Monday,35,August
+2026-08-24,39,"Lotte Binch","Snacks & Chocolates",85,Monday,35,August
+2026-08-24,40,Snickers,"Snacks & Chocolates",76,Monday,35,August
+2026-08-24,41,Mars,"Snacks & Chocolates",170,Monday,35,August
+2026-08-24,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,35,August
+2026-08-24,43,"Sesame Oil","Cooking Ingredients",339,Monday,35,August
+2026-08-24,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,35,August
+2026-08-24,45,Nori,"Cooking Ingredients",313,Monday,35,August
+2026-08-24,46,Kimchi,"Cooking Ingredients",86,Monday,35,August
+2026-08-24,47,"Fish Cake","Cooking Ingredients",47,Monday,35,August
+2026-08-24,48,"Welch's Assorted Flavors",Beverages,172,Monday,35,August
+2026-08-24,49,"Pororo Assorted Flavors",Beverages,243,Monday,35,August
+2026-08-24,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,35,August
+2026-08-24,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,35,August
+2026-08-24,52,Sausage,"Meat & Canned Foods",95,Monday,35,August
+2026-08-24,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,35,August
+2026-08-25,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,35,August
+2026-08-25,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,35,August
+2026-08-25,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,35,August
+2026-08-25,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,35,August
+2026-08-25,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,35,August
+2026-08-25,32,"Buldak Black","Ramen & Noodles",0,Tuesday,35,August
+2026-08-25,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,35,August
+2026-08-25,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,35,August
+2026-08-25,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,35,August
+2026-08-25,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,35,August
+2026-08-25,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,35,August
+2026-08-25,38,Pepero,"Snacks & Chocolates",62,Tuesday,35,August
+2026-08-25,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,35,August
+2026-08-25,40,Snickers,"Snacks & Chocolates",76,Tuesday,35,August
+2026-08-25,41,Mars,"Snacks & Chocolates",170,Tuesday,35,August
+2026-08-25,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,35,August
+2026-08-25,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,35,August
+2026-08-25,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,35,August
+2026-08-25,45,Nori,"Cooking Ingredients",313,Tuesday,35,August
+2026-08-25,46,Kimchi,"Cooking Ingredients",86,Tuesday,35,August
+2026-08-25,47,"Fish Cake","Cooking Ingredients",47,Tuesday,35,August
+2026-08-25,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,35,August
+2026-08-25,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,35,August
+2026-08-25,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,35,August
+2026-08-25,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,35,August
+2026-08-25,52,Sausage,"Meat & Canned Foods",95,Tuesday,35,August
+2026-08-25,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,35,August
+2026-08-26,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,35,August
+2026-08-26,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,35,August
+2026-08-26,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,35,August
+2026-08-26,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,35,August
+2026-08-26,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,35,August
+2026-08-26,32,"Buldak Black","Ramen & Noodles",0,Wednesday,35,August
+2026-08-26,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,35,August
+2026-08-26,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,35,August
+2026-08-26,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,35,August
+2026-08-26,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,35,August
+2026-08-26,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,35,August
+2026-08-26,38,Pepero,"Snacks & Chocolates",62,Wednesday,35,August
+2026-08-26,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,35,August
+2026-08-26,40,Snickers,"Snacks & Chocolates",76,Wednesday,35,August
+2026-08-26,41,Mars,"Snacks & Chocolates",170,Wednesday,35,August
+2026-08-26,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,35,August
+2026-08-26,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,35,August
+2026-08-26,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,35,August
+2026-08-26,45,Nori,"Cooking Ingredients",313,Wednesday,35,August
+2026-08-26,46,Kimchi,"Cooking Ingredients",86,Wednesday,35,August
+2026-08-26,47,"Fish Cake","Cooking Ingredients",47,Wednesday,35,August
+2026-08-26,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,35,August
+2026-08-26,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,35,August
+2026-08-26,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,35,August
+2026-08-26,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,35,August
+2026-08-26,52,Sausage,"Meat & Canned Foods",95,Wednesday,35,August
+2026-08-26,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,35,August
+2026-08-27,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,35,August
+2026-08-27,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,35,August
+2026-08-27,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,35,August
+2026-08-27,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,35,August
+2026-08-27,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,35,August
+2026-08-27,32,"Buldak Black","Ramen & Noodles",0,Thursday,35,August
+2026-08-27,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,35,August
+2026-08-27,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,35,August
+2026-08-27,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,35,August
+2026-08-27,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,35,August
+2026-08-27,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,35,August
+2026-08-27,38,Pepero,"Snacks & Chocolates",62,Thursday,35,August
+2026-08-27,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,35,August
+2026-08-27,40,Snickers,"Snacks & Chocolates",76,Thursday,35,August
+2026-08-27,41,Mars,"Snacks & Chocolates",170,Thursday,35,August
+2026-08-27,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,35,August
+2026-08-27,43,"Sesame Oil","Cooking Ingredients",339,Thursday,35,August
+2026-08-27,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,35,August
+2026-08-27,45,Nori,"Cooking Ingredients",313,Thursday,35,August
+2026-08-27,46,Kimchi,"Cooking Ingredients",86,Thursday,35,August
+2026-08-27,47,"Fish Cake","Cooking Ingredients",47,Thursday,35,August
+2026-08-27,48,"Welch's Assorted Flavors",Beverages,172,Thursday,35,August
+2026-08-27,49,"Pororo Assorted Flavors",Beverages,243,Thursday,35,August
+2026-08-27,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,35,August
+2026-08-27,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,35,August
+2026-08-27,52,Sausage,"Meat & Canned Foods",95,Thursday,35,August
+2026-08-27,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,35,August
+2026-08-28,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,35,August
+2026-08-28,28,"Buldak Cheese","Ramen & Noodles",58,Friday,35,August
+2026-08-28,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,35,August
+2026-08-28,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,35,August
+2026-08-28,31,"Buldak Rosé","Ramen & Noodles",90,Friday,35,August
+2026-08-28,32,"Buldak Black","Ramen & Noodles",0,Friday,35,August
+2026-08-28,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,35,August
+2026-08-28,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,35,August
+2026-08-28,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,35,August
+2026-08-28,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,35,August
+2026-08-28,37,"Shin Ramyun","Ramen & Noodles",223,Friday,35,August
+2026-08-28,38,Pepero,"Snacks & Chocolates",62,Friday,35,August
+2026-08-28,39,"Lotte Binch","Snacks & Chocolates",85,Friday,35,August
+2026-08-28,40,Snickers,"Snacks & Chocolates",76,Friday,35,August
+2026-08-28,41,Mars,"Snacks & Chocolates",170,Friday,35,August
+2026-08-28,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,35,August
+2026-08-28,43,"Sesame Oil","Cooking Ingredients",339,Friday,35,August
+2026-08-28,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,35,August
+2026-08-28,45,Nori,"Cooking Ingredients",313,Friday,35,August
+2026-08-28,46,Kimchi,"Cooking Ingredients",86,Friday,35,August
+2026-08-28,47,"Fish Cake","Cooking Ingredients",47,Friday,35,August
+2026-08-28,48,"Welch's Assorted Flavors",Beverages,172,Friday,35,August
+2026-08-28,49,"Pororo Assorted Flavors",Beverages,243,Friday,35,August
+2026-08-28,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,35,August
+2026-08-28,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,35,August
+2026-08-28,52,Sausage,"Meat & Canned Foods",95,Friday,35,August
+2026-08-28,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,35,August
+2026-08-29,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,35,August
+2026-08-29,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,35,August
+2026-08-29,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,35,August
+2026-08-29,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,35,August
+2026-08-29,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,35,August
+2026-08-29,32,"Buldak Black","Ramen & Noodles",0,Saturday,35,August
+2026-08-29,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,35,August
+2026-08-29,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,35,August
+2026-08-29,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,35,August
+2026-08-29,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,35,August
+2026-08-29,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,35,August
+2026-08-29,38,Pepero,"Snacks & Chocolates",62,Saturday,35,August
+2026-08-29,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,35,August
+2026-08-29,40,Snickers,"Snacks & Chocolates",76,Saturday,35,August
+2026-08-29,41,Mars,"Snacks & Chocolates",170,Saturday,35,August
+2026-08-29,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,35,August
+2026-08-29,43,"Sesame Oil","Cooking Ingredients",339,Saturday,35,August
+2026-08-29,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,35,August
+2026-08-29,45,Nori,"Cooking Ingredients",313,Saturday,35,August
+2026-08-29,46,Kimchi,"Cooking Ingredients",86,Saturday,35,August
+2026-08-29,47,"Fish Cake","Cooking Ingredients",47,Saturday,35,August
+2026-08-29,48,"Welch's Assorted Flavors",Beverages,172,Saturday,35,August
+2026-08-29,49,"Pororo Assorted Flavors",Beverages,243,Saturday,35,August
+2026-08-29,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,35,August
+2026-08-29,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,35,August
+2026-08-29,52,Sausage,"Meat & Canned Foods",95,Saturday,35,August
+2026-08-29,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,35,August
+2026-08-30,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,35,August
+2026-08-30,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,35,August
+2026-08-30,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,35,August
+2026-08-30,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,35,August
+2026-08-30,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,35,August
+2026-08-30,32,"Buldak Black","Ramen & Noodles",0,Sunday,35,August
+2026-08-30,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,35,August
+2026-08-30,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,35,August
+2026-08-30,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,35,August
+2026-08-30,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,35,August
+2026-08-30,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,35,August
+2026-08-30,38,Pepero,"Snacks & Chocolates",62,Sunday,35,August
+2026-08-30,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,35,August
+2026-08-30,40,Snickers,"Snacks & Chocolates",76,Sunday,35,August
+2026-08-30,41,Mars,"Snacks & Chocolates",170,Sunday,35,August
+2026-08-30,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,35,August
+2026-08-30,43,"Sesame Oil","Cooking Ingredients",339,Sunday,35,August
+2026-08-30,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,35,August
+2026-08-30,45,Nori,"Cooking Ingredients",313,Sunday,35,August
+2026-08-30,46,Kimchi,"Cooking Ingredients",86,Sunday,35,August
+2026-08-30,47,"Fish Cake","Cooking Ingredients",47,Sunday,35,August
+2026-08-30,48,"Welch's Assorted Flavors",Beverages,172,Sunday,35,August
+2026-08-30,49,"Pororo Assorted Flavors",Beverages,243,Sunday,35,August
+2026-08-30,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,35,August
+2026-08-30,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,35,August
+2026-08-30,52,Sausage,"Meat & Canned Foods",95,Sunday,35,August
+2026-08-30,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,35,August
+2026-08-31,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,36,August
+2026-08-31,28,"Buldak Cheese","Ramen & Noodles",58,Monday,36,August
+2026-08-31,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,36,August
+2026-08-31,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,36,August
+2026-08-31,31,"Buldak Rosé","Ramen & Noodles",90,Monday,36,August
+2026-08-31,32,"Buldak Black","Ramen & Noodles",0,Monday,36,August
+2026-08-31,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,36,August
+2026-08-31,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,36,August
+2026-08-31,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,36,August
+2026-08-31,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,36,August
+2026-08-31,37,"Shin Ramyun","Ramen & Noodles",223,Monday,36,August
+2026-08-31,38,Pepero,"Snacks & Chocolates",62,Monday,36,August
+2026-08-31,39,"Lotte Binch","Snacks & Chocolates",85,Monday,36,August
+2026-08-31,40,Snickers,"Snacks & Chocolates",76,Monday,36,August
+2026-08-31,41,Mars,"Snacks & Chocolates",170,Monday,36,August
+2026-08-31,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,36,August
+2026-08-31,43,"Sesame Oil","Cooking Ingredients",339,Monday,36,August
+2026-08-31,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,36,August
+2026-08-31,45,Nori,"Cooking Ingredients",313,Monday,36,August
+2026-08-31,46,Kimchi,"Cooking Ingredients",86,Monday,36,August
+2026-08-31,47,"Fish Cake","Cooking Ingredients",47,Monday,36,August
+2026-08-31,48,"Welch's Assorted Flavors",Beverages,172,Monday,36,August
+2026-08-31,49,"Pororo Assorted Flavors",Beverages,243,Monday,36,August
+2026-08-31,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,36,August
+2026-08-31,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,36,August
+2026-08-31,52,Sausage,"Meat & Canned Foods",95,Monday,36,August
+2026-08-31,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,36,August
+2026-09-01,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,36,September
+2026-09-01,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,36,September
+2026-09-01,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,36,September
+2026-09-01,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,36,September
+2026-09-01,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,36,September
+2026-09-01,32,"Buldak Black","Ramen & Noodles",0,Tuesday,36,September
+2026-09-01,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,36,September
+2026-09-01,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,36,September
+2026-09-01,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,36,September
+2026-09-01,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,36,September
+2026-09-01,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,36,September
+2026-09-01,38,Pepero,"Snacks & Chocolates",62,Tuesday,36,September
+2026-09-01,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,36,September
+2026-09-01,40,Snickers,"Snacks & Chocolates",76,Tuesday,36,September
+2026-09-01,41,Mars,"Snacks & Chocolates",170,Tuesday,36,September
+2026-09-01,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,36,September
+2026-09-01,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,36,September
+2026-09-01,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,36,September
+2026-09-01,45,Nori,"Cooking Ingredients",313,Tuesday,36,September
+2026-09-01,46,Kimchi,"Cooking Ingredients",86,Tuesday,36,September
+2026-09-01,47,"Fish Cake","Cooking Ingredients",47,Tuesday,36,September
+2026-09-01,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,36,September
+2026-09-01,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,36,September
+2026-09-01,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,36,September
+2026-09-01,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,36,September
+2026-09-01,52,Sausage,"Meat & Canned Foods",95,Tuesday,36,September
+2026-09-01,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,36,September
+2026-09-02,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,36,September
+2026-09-02,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,36,September
+2026-09-02,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,36,September
+2026-09-02,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,36,September
+2026-09-02,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,36,September
+2026-09-02,32,"Buldak Black","Ramen & Noodles",0,Wednesday,36,September
+2026-09-02,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,36,September
+2026-09-02,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,36,September
+2026-09-02,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,36,September
+2026-09-02,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,36,September
+2026-09-02,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,36,September
+2026-09-02,38,Pepero,"Snacks & Chocolates",62,Wednesday,36,September
+2026-09-02,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,36,September
+2026-09-02,40,Snickers,"Snacks & Chocolates",76,Wednesday,36,September
+2026-09-02,41,Mars,"Snacks & Chocolates",170,Wednesday,36,September
+2026-09-02,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,36,September
+2026-09-02,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,36,September
+2026-09-02,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,36,September
+2026-09-02,45,Nori,"Cooking Ingredients",313,Wednesday,36,September
+2026-09-02,46,Kimchi,"Cooking Ingredients",86,Wednesday,36,September
+2026-09-02,47,"Fish Cake","Cooking Ingredients",47,Wednesday,36,September
+2026-09-02,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,36,September
+2026-09-02,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,36,September
+2026-09-02,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,36,September
+2026-09-02,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,36,September
+2026-09-02,52,Sausage,"Meat & Canned Foods",95,Wednesday,36,September
+2026-09-02,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,36,September
+2026-09-03,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,36,September
+2026-09-03,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,36,September
+2026-09-03,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,36,September
+2026-09-03,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,36,September
+2026-09-03,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,36,September
+2026-09-03,32,"Buldak Black","Ramen & Noodles",0,Thursday,36,September
+2026-09-03,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,36,September
+2026-09-03,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,36,September
+2026-09-03,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,36,September
+2026-09-03,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,36,September
+2026-09-03,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,36,September
+2026-09-03,38,Pepero,"Snacks & Chocolates",62,Thursday,36,September
+2026-09-03,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,36,September
+2026-09-03,40,Snickers,"Snacks & Chocolates",76,Thursday,36,September
+2026-09-03,41,Mars,"Snacks & Chocolates",170,Thursday,36,September
+2026-09-03,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,36,September
+2026-09-03,43,"Sesame Oil","Cooking Ingredients",339,Thursday,36,September
+2026-09-03,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,36,September
+2026-09-03,45,Nori,"Cooking Ingredients",313,Thursday,36,September
+2026-09-03,46,Kimchi,"Cooking Ingredients",86,Thursday,36,September
+2026-09-03,47,"Fish Cake","Cooking Ingredients",47,Thursday,36,September
+2026-09-03,48,"Welch's Assorted Flavors",Beverages,172,Thursday,36,September
+2026-09-03,49,"Pororo Assorted Flavors",Beverages,243,Thursday,36,September
+2026-09-03,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,36,September
+2026-09-03,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,36,September
+2026-09-03,52,Sausage,"Meat & Canned Foods",95,Thursday,36,September
+2026-09-03,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,36,September
+2026-09-04,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,36,September
+2026-09-04,28,"Buldak Cheese","Ramen & Noodles",58,Friday,36,September
+2026-09-04,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,36,September
+2026-09-04,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,36,September
+2026-09-04,31,"Buldak Rosé","Ramen & Noodles",90,Friday,36,September
+2026-09-04,32,"Buldak Black","Ramen & Noodles",0,Friday,36,September
+2026-09-04,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,36,September
+2026-09-04,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,36,September
+2026-09-04,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,36,September
+2026-09-04,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,36,September
+2026-09-04,37,"Shin Ramyun","Ramen & Noodles",223,Friday,36,September
+2026-09-04,38,Pepero,"Snacks & Chocolates",62,Friday,36,September
+2026-09-04,39,"Lotte Binch","Snacks & Chocolates",85,Friday,36,September
+2026-09-04,40,Snickers,"Snacks & Chocolates",76,Friday,36,September
+2026-09-04,41,Mars,"Snacks & Chocolates",170,Friday,36,September
+2026-09-04,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,36,September
+2026-09-04,43,"Sesame Oil","Cooking Ingredients",339,Friday,36,September
+2026-09-04,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,36,September
+2026-09-04,45,Nori,"Cooking Ingredients",313,Friday,36,September
+2026-09-04,46,Kimchi,"Cooking Ingredients",86,Friday,36,September
+2026-09-04,47,"Fish Cake","Cooking Ingredients",47,Friday,36,September
+2026-09-04,48,"Welch's Assorted Flavors",Beverages,172,Friday,36,September
+2026-09-04,49,"Pororo Assorted Flavors",Beverages,243,Friday,36,September
+2026-09-04,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,36,September
+2026-09-04,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,36,September
+2026-09-04,52,Sausage,"Meat & Canned Foods",95,Friday,36,September
+2026-09-04,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,36,September
+2026-09-05,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,36,September
+2026-09-05,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,36,September
+2026-09-05,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,36,September
+2026-09-05,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,36,September
+2026-09-05,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,36,September
+2026-09-05,32,"Buldak Black","Ramen & Noodles",0,Saturday,36,September
+2026-09-05,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,36,September
+2026-09-05,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,36,September
+2026-09-05,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,36,September
+2026-09-05,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,36,September
+2026-09-05,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,36,September
+2026-09-05,38,Pepero,"Snacks & Chocolates",62,Saturday,36,September
+2026-09-05,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,36,September
+2026-09-05,40,Snickers,"Snacks & Chocolates",76,Saturday,36,September
+2026-09-05,41,Mars,"Snacks & Chocolates",170,Saturday,36,September
+2026-09-05,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,36,September
+2026-09-05,43,"Sesame Oil","Cooking Ingredients",339,Saturday,36,September
+2026-09-05,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,36,September
+2026-09-05,45,Nori,"Cooking Ingredients",313,Saturday,36,September
+2026-09-05,46,Kimchi,"Cooking Ingredients",86,Saturday,36,September
+2026-09-05,47,"Fish Cake","Cooking Ingredients",47,Saturday,36,September
+2026-09-05,48,"Welch's Assorted Flavors",Beverages,172,Saturday,36,September
+2026-09-05,49,"Pororo Assorted Flavors",Beverages,243,Saturday,36,September
+2026-09-05,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,36,September
+2026-09-05,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,36,September
+2026-09-05,52,Sausage,"Meat & Canned Foods",95,Saturday,36,September
+2026-09-05,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,36,September
+2026-09-06,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,36,September
+2026-09-06,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,36,September
+2026-09-06,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,36,September
+2026-09-06,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,36,September
+2026-09-06,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,36,September
+2026-09-06,32,"Buldak Black","Ramen & Noodles",0,Sunday,36,September
+2026-09-06,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,36,September
+2026-09-06,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,36,September
+2026-09-06,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,36,September
+2026-09-06,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,36,September
+2026-09-06,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,36,September
+2026-09-06,38,Pepero,"Snacks & Chocolates",62,Sunday,36,September
+2026-09-06,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,36,September
+2026-09-06,40,Snickers,"Snacks & Chocolates",76,Sunday,36,September
+2026-09-06,41,Mars,"Snacks & Chocolates",170,Sunday,36,September
+2026-09-06,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,36,September
+2026-09-06,43,"Sesame Oil","Cooking Ingredients",339,Sunday,36,September
+2026-09-06,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,36,September
+2026-09-06,45,Nori,"Cooking Ingredients",313,Sunday,36,September
+2026-09-06,46,Kimchi,"Cooking Ingredients",86,Sunday,36,September
+2026-09-06,47,"Fish Cake","Cooking Ingredients",47,Sunday,36,September
+2026-09-06,48,"Welch's Assorted Flavors",Beverages,172,Sunday,36,September
+2026-09-06,49,"Pororo Assorted Flavors",Beverages,243,Sunday,36,September
+2026-09-06,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,36,September
+2026-09-06,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,36,September
+2026-09-06,52,Sausage,"Meat & Canned Foods",95,Sunday,36,September
+2026-09-06,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,36,September
+2026-09-07,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,37,September
+2026-09-07,28,"Buldak Cheese","Ramen & Noodles",58,Monday,37,September
+2026-09-07,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,37,September
+2026-09-07,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,37,September
+2026-09-07,31,"Buldak Rosé","Ramen & Noodles",90,Monday,37,September
+2026-09-07,32,"Buldak Black","Ramen & Noodles",0,Monday,37,September
+2026-09-07,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,37,September
+2026-09-07,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,37,September
+2026-09-07,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,37,September
+2026-09-07,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,37,September
+2026-09-07,37,"Shin Ramyun","Ramen & Noodles",223,Monday,37,September
+2026-09-07,38,Pepero,"Snacks & Chocolates",62,Monday,37,September
+2026-09-07,39,"Lotte Binch","Snacks & Chocolates",85,Monday,37,September
+2026-09-07,40,Snickers,"Snacks & Chocolates",76,Monday,37,September
+2026-09-07,41,Mars,"Snacks & Chocolates",170,Monday,37,September
+2026-09-07,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,37,September
+2026-09-07,43,"Sesame Oil","Cooking Ingredients",339,Monday,37,September
+2026-09-07,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,37,September
+2026-09-07,45,Nori,"Cooking Ingredients",313,Monday,37,September
+2026-09-07,46,Kimchi,"Cooking Ingredients",86,Monday,37,September
+2026-09-07,47,"Fish Cake","Cooking Ingredients",47,Monday,37,September
+2026-09-07,48,"Welch's Assorted Flavors",Beverages,172,Monday,37,September
+2026-09-07,49,"Pororo Assorted Flavors",Beverages,243,Monday,37,September
+2026-09-07,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,37,September
+2026-09-07,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,37,September
+2026-09-07,52,Sausage,"Meat & Canned Foods",95,Monday,37,September
+2026-09-07,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,37,September
+2026-09-08,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,37,September
+2026-09-08,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,37,September
+2026-09-08,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,37,September
+2026-09-08,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,37,September
+2026-09-08,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,37,September
+2026-09-08,32,"Buldak Black","Ramen & Noodles",0,Tuesday,37,September
+2026-09-08,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,37,September
+2026-09-08,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,37,September
+2026-09-08,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,37,September
+2026-09-08,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,37,September
+2026-09-08,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,37,September
+2026-09-08,38,Pepero,"Snacks & Chocolates",62,Tuesday,37,September
+2026-09-08,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,37,September
+2026-09-08,40,Snickers,"Snacks & Chocolates",76,Tuesday,37,September
+2026-09-08,41,Mars,"Snacks & Chocolates",170,Tuesday,37,September
+2026-09-08,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,37,September
+2026-09-08,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,37,September
+2026-09-08,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,37,September
+2026-09-08,45,Nori,"Cooking Ingredients",313,Tuesday,37,September
+2026-09-08,46,Kimchi,"Cooking Ingredients",86,Tuesday,37,September
+2026-09-08,47,"Fish Cake","Cooking Ingredients",47,Tuesday,37,September
+2026-09-08,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,37,September
+2026-09-08,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,37,September
+2026-09-08,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,37,September
+2026-09-08,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,37,September
+2026-09-08,52,Sausage,"Meat & Canned Foods",95,Tuesday,37,September
+2026-09-08,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,37,September
+2026-09-09,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,37,September
+2026-09-09,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,37,September
+2026-09-09,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,37,September
+2026-09-09,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,37,September
+2026-09-09,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,37,September
+2026-09-09,32,"Buldak Black","Ramen & Noodles",0,Wednesday,37,September
+2026-09-09,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,37,September
+2026-09-09,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,37,September
+2026-09-09,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,37,September
+2026-09-09,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,37,September
+2026-09-09,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,37,September
+2026-09-09,38,Pepero,"Snacks & Chocolates",62,Wednesday,37,September
+2026-09-09,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,37,September
+2026-09-09,40,Snickers,"Snacks & Chocolates",76,Wednesday,37,September
+2026-09-09,41,Mars,"Snacks & Chocolates",170,Wednesday,37,September
+2026-09-09,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,37,September
+2026-09-09,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,37,September
+2026-09-09,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,37,September
+2026-09-09,45,Nori,"Cooking Ingredients",313,Wednesday,37,September
+2026-09-09,46,Kimchi,"Cooking Ingredients",86,Wednesday,37,September
+2026-09-09,47,"Fish Cake","Cooking Ingredients",47,Wednesday,37,September
+2026-09-09,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,37,September
+2026-09-09,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,37,September
+2026-09-09,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,37,September
+2026-09-09,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,37,September
+2026-09-09,52,Sausage,"Meat & Canned Foods",95,Wednesday,37,September
+2026-09-09,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,37,September
+2026-09-10,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,37,September
+2026-09-10,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,37,September
+2026-09-10,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,37,September
+2026-09-10,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,37,September
+2026-09-10,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,37,September
+2026-09-10,32,"Buldak Black","Ramen & Noodles",0,Thursday,37,September
+2026-09-10,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,37,September
+2026-09-10,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,37,September
+2026-09-10,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,37,September
+2026-09-10,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,37,September
+2026-09-10,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,37,September
+2026-09-10,38,Pepero,"Snacks & Chocolates",62,Thursday,37,September
+2026-09-10,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,37,September
+2026-09-10,40,Snickers,"Snacks & Chocolates",76,Thursday,37,September
+2026-09-10,41,Mars,"Snacks & Chocolates",170,Thursday,37,September
+2026-09-10,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,37,September
+2026-09-10,43,"Sesame Oil","Cooking Ingredients",339,Thursday,37,September
+2026-09-10,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,37,September
+2026-09-10,45,Nori,"Cooking Ingredients",313,Thursday,37,September
+2026-09-10,46,Kimchi,"Cooking Ingredients",86,Thursday,37,September
+2026-09-10,47,"Fish Cake","Cooking Ingredients",47,Thursday,37,September
+2026-09-10,48,"Welch's Assorted Flavors",Beverages,172,Thursday,37,September
+2026-09-10,49,"Pororo Assorted Flavors",Beverages,243,Thursday,37,September
+2026-09-10,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,37,September
+2026-09-10,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,37,September
+2026-09-10,52,Sausage,"Meat & Canned Foods",95,Thursday,37,September
+2026-09-10,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,37,September
+2026-09-11,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,37,September
+2026-09-11,28,"Buldak Cheese","Ramen & Noodles",58,Friday,37,September
+2026-09-11,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,37,September
+2026-09-11,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,37,September
+2026-09-11,31,"Buldak Rosé","Ramen & Noodles",90,Friday,37,September
+2026-09-11,32,"Buldak Black","Ramen & Noodles",0,Friday,37,September
+2026-09-11,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,37,September
+2026-09-11,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,37,September
+2026-09-11,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,37,September
+2026-09-11,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,37,September
+2026-09-11,37,"Shin Ramyun","Ramen & Noodles",223,Friday,37,September
+2026-09-11,38,Pepero,"Snacks & Chocolates",62,Friday,37,September
+2026-09-11,39,"Lotte Binch","Snacks & Chocolates",85,Friday,37,September
+2026-09-11,40,Snickers,"Snacks & Chocolates",76,Friday,37,September
+2026-09-11,41,Mars,"Snacks & Chocolates",170,Friday,37,September
+2026-09-11,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,37,September
+2026-09-11,43,"Sesame Oil","Cooking Ingredients",339,Friday,37,September
+2026-09-11,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,37,September
+2026-09-11,45,Nori,"Cooking Ingredients",313,Friday,37,September
+2026-09-11,46,Kimchi,"Cooking Ingredients",86,Friday,37,September
+2026-09-11,47,"Fish Cake","Cooking Ingredients",47,Friday,37,September
+2026-09-11,48,"Welch's Assorted Flavors",Beverages,172,Friday,37,September
+2026-09-11,49,"Pororo Assorted Flavors",Beverages,243,Friday,37,September
+2026-09-11,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,37,September
+2026-09-11,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,37,September
+2026-09-11,52,Sausage,"Meat & Canned Foods",95,Friday,37,September
+2026-09-11,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,37,September
+2026-09-12,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,37,September
+2026-09-12,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,37,September
+2026-09-12,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,37,September
+2026-09-12,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,37,September
+2026-09-12,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,37,September
+2026-09-12,32,"Buldak Black","Ramen & Noodles",0,Saturday,37,September
+2026-09-12,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,37,September
+2026-09-12,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,37,September
+2026-09-12,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,37,September
+2026-09-12,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,37,September
+2026-09-12,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,37,September
+2026-09-12,38,Pepero,"Snacks & Chocolates",62,Saturday,37,September
+2026-09-12,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,37,September
+2026-09-12,40,Snickers,"Snacks & Chocolates",76,Saturday,37,September
+2026-09-12,41,Mars,"Snacks & Chocolates",170,Saturday,37,September
+2026-09-12,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,37,September
+2026-09-12,43,"Sesame Oil","Cooking Ingredients",339,Saturday,37,September
+2026-09-12,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,37,September
+2026-09-12,45,Nori,"Cooking Ingredients",313,Saturday,37,September
+2026-09-12,46,Kimchi,"Cooking Ingredients",86,Saturday,37,September
+2026-09-12,47,"Fish Cake","Cooking Ingredients",47,Saturday,37,September
+2026-09-12,48,"Welch's Assorted Flavors",Beverages,172,Saturday,37,September
+2026-09-12,49,"Pororo Assorted Flavors",Beverages,243,Saturday,37,September
+2026-09-12,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,37,September
+2026-09-12,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,37,September
+2026-09-12,52,Sausage,"Meat & Canned Foods",95,Saturday,37,September
+2026-09-12,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,37,September
+2026-09-13,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,37,September
+2026-09-13,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,37,September
+2026-09-13,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,37,September
+2026-09-13,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,37,September
+2026-09-13,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,37,September
+2026-09-13,32,"Buldak Black","Ramen & Noodles",0,Sunday,37,September
+2026-09-13,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,37,September
+2026-09-13,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,37,September
+2026-09-13,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,37,September
+2026-09-13,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,37,September
+2026-09-13,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,37,September
+2026-09-13,38,Pepero,"Snacks & Chocolates",62,Sunday,37,September
+2026-09-13,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,37,September
+2026-09-13,40,Snickers,"Snacks & Chocolates",76,Sunday,37,September
+2026-09-13,41,Mars,"Snacks & Chocolates",170,Sunday,37,September
+2026-09-13,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,37,September
+2026-09-13,43,"Sesame Oil","Cooking Ingredients",339,Sunday,37,September
+2026-09-13,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,37,September
+2026-09-13,45,Nori,"Cooking Ingredients",313,Sunday,37,September
+2026-09-13,46,Kimchi,"Cooking Ingredients",86,Sunday,37,September
+2026-09-13,47,"Fish Cake","Cooking Ingredients",47,Sunday,37,September
+2026-09-13,48,"Welch's Assorted Flavors",Beverages,172,Sunday,37,September
+2026-09-13,49,"Pororo Assorted Flavors",Beverages,243,Sunday,37,September
+2026-09-13,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,37,September
+2026-09-13,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,37,September
+2026-09-13,52,Sausage,"Meat & Canned Foods",95,Sunday,37,September
+2026-09-13,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,37,September
+2026-09-14,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,38,September
+2026-09-14,28,"Buldak Cheese","Ramen & Noodles",58,Monday,38,September
+2026-09-14,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,38,September
+2026-09-14,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,38,September
+2026-09-14,31,"Buldak Rosé","Ramen & Noodles",90,Monday,38,September
+2026-09-14,32,"Buldak Black","Ramen & Noodles",0,Monday,38,September
+2026-09-14,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,38,September
+2026-09-14,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,38,September
+2026-09-14,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,38,September
+2026-09-14,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,38,September
+2026-09-14,37,"Shin Ramyun","Ramen & Noodles",223,Monday,38,September
+2026-09-14,38,Pepero,"Snacks & Chocolates",62,Monday,38,September
+2026-09-14,39,"Lotte Binch","Snacks & Chocolates",85,Monday,38,September
+2026-09-14,40,Snickers,"Snacks & Chocolates",76,Monday,38,September
+2026-09-14,41,Mars,"Snacks & Chocolates",170,Monday,38,September
+2026-09-14,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,38,September
+2026-09-14,43,"Sesame Oil","Cooking Ingredients",339,Monday,38,September
+2026-09-14,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,38,September
+2026-09-14,45,Nori,"Cooking Ingredients",313,Monday,38,September
+2026-09-14,46,Kimchi,"Cooking Ingredients",86,Monday,38,September
+2026-09-14,47,"Fish Cake","Cooking Ingredients",47,Monday,38,September
+2026-09-14,48,"Welch's Assorted Flavors",Beverages,172,Monday,38,September
+2026-09-14,49,"Pororo Assorted Flavors",Beverages,243,Monday,38,September
+2026-09-14,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,38,September
+2026-09-14,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,38,September
+2026-09-14,52,Sausage,"Meat & Canned Foods",95,Monday,38,September
+2026-09-14,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,38,September
+2026-09-15,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,38,September
+2026-09-15,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,38,September
+2026-09-15,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,38,September
+2026-09-15,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,38,September
+2026-09-15,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,38,September
+2026-09-15,32,"Buldak Black","Ramen & Noodles",0,Tuesday,38,September
+2026-09-15,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,38,September
+2026-09-15,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,38,September
+2026-09-15,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,38,September
+2026-09-15,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,38,September
+2026-09-15,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,38,September
+2026-09-15,38,Pepero,"Snacks & Chocolates",62,Tuesday,38,September
+2026-09-15,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,38,September
+2026-09-15,40,Snickers,"Snacks & Chocolates",76,Tuesday,38,September
+2026-09-15,41,Mars,"Snacks & Chocolates",170,Tuesday,38,September
+2026-09-15,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,38,September
+2026-09-15,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,38,September
+2026-09-15,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,38,September
+2026-09-15,45,Nori,"Cooking Ingredients",313,Tuesday,38,September
+2026-09-15,46,Kimchi,"Cooking Ingredients",86,Tuesday,38,September
+2026-09-15,47,"Fish Cake","Cooking Ingredients",47,Tuesday,38,September
+2026-09-15,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,38,September
+2026-09-15,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,38,September
+2026-09-15,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,38,September
+2026-09-15,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,38,September
+2026-09-15,52,Sausage,"Meat & Canned Foods",95,Tuesday,38,September
+2026-09-15,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,38,September
+2026-09-16,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,38,September
+2026-09-16,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,38,September
+2026-09-16,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,38,September
+2026-09-16,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,38,September
+2026-09-16,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,38,September
+2026-09-16,32,"Buldak Black","Ramen & Noodles",0,Wednesday,38,September
+2026-09-16,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,38,September
+2026-09-16,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,38,September
+2026-09-16,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,38,September
+2026-09-16,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,38,September
+2026-09-16,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,38,September
+2026-09-16,38,Pepero,"Snacks & Chocolates",62,Wednesday,38,September
+2026-09-16,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,38,September
+2026-09-16,40,Snickers,"Snacks & Chocolates",76,Wednesday,38,September
+2026-09-16,41,Mars,"Snacks & Chocolates",170,Wednesday,38,September
+2026-09-16,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,38,September
+2026-09-16,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,38,September
+2026-09-16,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,38,September
+2026-09-16,45,Nori,"Cooking Ingredients",313,Wednesday,38,September
+2026-09-16,46,Kimchi,"Cooking Ingredients",86,Wednesday,38,September
+2026-09-16,47,"Fish Cake","Cooking Ingredients",47,Wednesday,38,September
+2026-09-16,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,38,September
+2026-09-16,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,38,September
+2026-09-16,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,38,September
+2026-09-16,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,38,September
+2026-09-16,52,Sausage,"Meat & Canned Foods",95,Wednesday,38,September
+2026-09-16,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,38,September
+2026-09-17,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,38,September
+2026-09-17,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,38,September
+2026-09-17,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,38,September
+2026-09-17,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,38,September
+2026-09-17,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,38,September
+2026-09-17,32,"Buldak Black","Ramen & Noodles",0,Thursday,38,September
+2026-09-17,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,38,September
+2026-09-17,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,38,September
+2026-09-17,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,38,September
+2026-09-17,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,38,September
+2026-09-17,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,38,September
+2026-09-17,38,Pepero,"Snacks & Chocolates",62,Thursday,38,September
+2026-09-17,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,38,September
+2026-09-17,40,Snickers,"Snacks & Chocolates",76,Thursday,38,September
+2026-09-17,41,Mars,"Snacks & Chocolates",170,Thursday,38,September
+2026-09-17,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,38,September
+2026-09-17,43,"Sesame Oil","Cooking Ingredients",339,Thursday,38,September
+2026-09-17,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,38,September
+2026-09-17,45,Nori,"Cooking Ingredients",313,Thursday,38,September
+2026-09-17,46,Kimchi,"Cooking Ingredients",86,Thursday,38,September
+2026-09-17,47,"Fish Cake","Cooking Ingredients",47,Thursday,38,September
+2026-09-17,48,"Welch's Assorted Flavors",Beverages,172,Thursday,38,September
+2026-09-17,49,"Pororo Assorted Flavors",Beverages,243,Thursday,38,September
+2026-09-17,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,38,September
+2026-09-17,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,38,September
+2026-09-17,52,Sausage,"Meat & Canned Foods",95,Thursday,38,September
+2026-09-17,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,38,September
+2026-09-18,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,38,September
+2026-09-18,28,"Buldak Cheese","Ramen & Noodles",58,Friday,38,September
+2026-09-18,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,38,September
+2026-09-18,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,38,September
+2026-09-18,31,"Buldak Rosé","Ramen & Noodles",90,Friday,38,September
+2026-09-18,32,"Buldak Black","Ramen & Noodles",0,Friday,38,September
+2026-09-18,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,38,September
+2026-09-18,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,38,September
+2026-09-18,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,38,September
+2026-09-18,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,38,September
+2026-09-18,37,"Shin Ramyun","Ramen & Noodles",223,Friday,38,September
+2026-09-18,38,Pepero,"Snacks & Chocolates",62,Friday,38,September
+2026-09-18,39,"Lotte Binch","Snacks & Chocolates",85,Friday,38,September
+2026-09-18,40,Snickers,"Snacks & Chocolates",76,Friday,38,September
+2026-09-18,41,Mars,"Snacks & Chocolates",170,Friday,38,September
+2026-09-18,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,38,September
+2026-09-18,43,"Sesame Oil","Cooking Ingredients",339,Friday,38,September
+2026-09-18,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,38,September
+2026-09-18,45,Nori,"Cooking Ingredients",313,Friday,38,September
+2026-09-18,46,Kimchi,"Cooking Ingredients",86,Friday,38,September
+2026-09-18,47,"Fish Cake","Cooking Ingredients",47,Friday,38,September
+2026-09-18,48,"Welch's Assorted Flavors",Beverages,172,Friday,38,September
+2026-09-18,49,"Pororo Assorted Flavors",Beverages,243,Friday,38,September
+2026-09-18,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,38,September
+2026-09-18,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,38,September
+2026-09-18,52,Sausage,"Meat & Canned Foods",95,Friday,38,September
+2026-09-18,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,38,September
+2026-09-19,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,38,September
+2026-09-19,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,38,September
+2026-09-19,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,38,September
+2026-09-19,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,38,September
+2026-09-19,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,38,September
+2026-09-19,32,"Buldak Black","Ramen & Noodles",0,Saturday,38,September
+2026-09-19,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,38,September
+2026-09-19,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,38,September
+2026-09-19,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,38,September
+2026-09-19,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,38,September
+2026-09-19,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,38,September
+2026-09-19,38,Pepero,"Snacks & Chocolates",62,Saturday,38,September
+2026-09-19,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,38,September
+2026-09-19,40,Snickers,"Snacks & Chocolates",76,Saturday,38,September
+2026-09-19,41,Mars,"Snacks & Chocolates",170,Saturday,38,September
+2026-09-19,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,38,September
+2026-09-19,43,"Sesame Oil","Cooking Ingredients",339,Saturday,38,September
+2026-09-19,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,38,September
+2026-09-19,45,Nori,"Cooking Ingredients",313,Saturday,38,September
+2026-09-19,46,Kimchi,"Cooking Ingredients",86,Saturday,38,September
+2026-09-19,47,"Fish Cake","Cooking Ingredients",47,Saturday,38,September
+2026-09-19,48,"Welch's Assorted Flavors",Beverages,172,Saturday,38,September
+2026-09-19,49,"Pororo Assorted Flavors",Beverages,243,Saturday,38,September
+2026-09-19,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,38,September
+2026-09-19,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,38,September
+2026-09-19,52,Sausage,"Meat & Canned Foods",95,Saturday,38,September
+2026-09-19,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,38,September
+2026-09-20,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,38,September
+2026-09-20,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,38,September
+2026-09-20,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,38,September
+2026-09-20,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,38,September
+2026-09-20,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,38,September
+2026-09-20,32,"Buldak Black","Ramen & Noodles",0,Sunday,38,September
+2026-09-20,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,38,September
+2026-09-20,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,38,September
+2026-09-20,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,38,September
+2026-09-20,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,38,September
+2026-09-20,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,38,September
+2026-09-20,38,Pepero,"Snacks & Chocolates",62,Sunday,38,September
+2026-09-20,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,38,September
+2026-09-20,40,Snickers,"Snacks & Chocolates",76,Sunday,38,September
+2026-09-20,41,Mars,"Snacks & Chocolates",170,Sunday,38,September
+2026-09-20,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,38,September
+2026-09-20,43,"Sesame Oil","Cooking Ingredients",339,Sunday,38,September
+2026-09-20,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,38,September
+2026-09-20,45,Nori,"Cooking Ingredients",313,Sunday,38,September
+2026-09-20,46,Kimchi,"Cooking Ingredients",86,Sunday,38,September
+2026-09-20,47,"Fish Cake","Cooking Ingredients",47,Sunday,38,September
+2026-09-20,48,"Welch's Assorted Flavors",Beverages,172,Sunday,38,September
+2026-09-20,49,"Pororo Assorted Flavors",Beverages,243,Sunday,38,September
+2026-09-20,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,38,September
+2026-09-20,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,38,September
+2026-09-20,52,Sausage,"Meat & Canned Foods",95,Sunday,38,September
+2026-09-20,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,38,September
+2026-09-21,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,39,September
+2026-09-21,28,"Buldak Cheese","Ramen & Noodles",58,Monday,39,September
+2026-09-21,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,39,September
+2026-09-21,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,39,September
+2026-09-21,31,"Buldak Rosé","Ramen & Noodles",90,Monday,39,September
+2026-09-21,32,"Buldak Black","Ramen & Noodles",0,Monday,39,September
+2026-09-21,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,39,September
+2026-09-21,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,39,September
+2026-09-21,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,39,September
+2026-09-21,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,39,September
+2026-09-21,37,"Shin Ramyun","Ramen & Noodles",223,Monday,39,September
+2026-09-21,38,Pepero,"Snacks & Chocolates",62,Monday,39,September
+2026-09-21,39,"Lotte Binch","Snacks & Chocolates",85,Monday,39,September
+2026-09-21,40,Snickers,"Snacks & Chocolates",76,Monday,39,September
+2026-09-21,41,Mars,"Snacks & Chocolates",170,Monday,39,September
+2026-09-21,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,39,September
+2026-09-21,43,"Sesame Oil","Cooking Ingredients",339,Monday,39,September
+2026-09-21,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,39,September
+2026-09-21,45,Nori,"Cooking Ingredients",313,Monday,39,September
+2026-09-21,46,Kimchi,"Cooking Ingredients",86,Monday,39,September
+2026-09-21,47,"Fish Cake","Cooking Ingredients",47,Monday,39,September
+2026-09-21,48,"Welch's Assorted Flavors",Beverages,172,Monday,39,September
+2026-09-21,49,"Pororo Assorted Flavors",Beverages,243,Monday,39,September
+2026-09-21,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,39,September
+2026-09-21,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,39,September
+2026-09-21,52,Sausage,"Meat & Canned Foods",95,Monday,39,September
+2026-09-21,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,39,September
+2026-09-22,1,"Buldak 4X Cheese","Ramen & Noodles",230,Tuesday,39,September
+2026-09-22,28,"Buldak Cheese","Ramen & Noodles",58,Tuesday,39,September
+2026-09-22,29,"Buldak Carbonara","Ramen & Noodles",113,Tuesday,39,September
+2026-09-22,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Tuesday,39,September
+2026-09-22,31,"Buldak Rosé","Ramen & Noodles",90,Tuesday,39,September
+2026-09-22,32,"Buldak Black","Ramen & Noodles",0,Tuesday,39,September
+2026-09-22,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Tuesday,39,September
+2026-09-22,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Tuesday,39,September
+2026-09-22,35,"Jin Ramen Spicy","Ramen & Noodles",96,Tuesday,39,September
+2026-09-22,36,"Jin Ramen Mild","Ramen & Noodles",137,Tuesday,39,September
+2026-09-22,37,"Shin Ramyun","Ramen & Noodles",223,Tuesday,39,September
+2026-09-22,38,Pepero,"Snacks & Chocolates",62,Tuesday,39,September
+2026-09-22,39,"Lotte Binch","Snacks & Chocolates",85,Tuesday,39,September
+2026-09-22,40,Snickers,"Snacks & Chocolates",76,Tuesday,39,September
+2026-09-22,41,Mars,"Snacks & Chocolates",170,Tuesday,39,September
+2026-09-22,42,"Bulgogi Sauce","Sauces & Seasonings",84,Tuesday,39,September
+2026-09-22,43,"Sesame Oil","Cooking Ingredients",339,Tuesday,39,September
+2026-09-22,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Tuesday,39,September
+2026-09-22,45,Nori,"Cooking Ingredients",313,Tuesday,39,September
+2026-09-22,46,Kimchi,"Cooking Ingredients",86,Tuesday,39,September
+2026-09-22,47,"Fish Cake","Cooking Ingredients",47,Tuesday,39,September
+2026-09-22,48,"Welch's Assorted Flavors",Beverages,172,Tuesday,39,September
+2026-09-22,49,"Pororo Assorted Flavors",Beverages,243,Tuesday,39,September
+2026-09-22,50,"Coldtalk Assorted Flavors",Beverages,67,Tuesday,39,September
+2026-09-22,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Tuesday,39,September
+2026-09-22,52,Sausage,"Meat & Canned Foods",95,Tuesday,39,September
+2026-09-22,53,"Beef Bulgogi","Meat & Canned Foods",114,Tuesday,39,September
+2026-09-23,1,"Buldak 4X Cheese","Ramen & Noodles",230,Wednesday,39,September
+2026-09-23,28,"Buldak Cheese","Ramen & Noodles",58,Wednesday,39,September
+2026-09-23,29,"Buldak Carbonara","Ramen & Noodles",113,Wednesday,39,September
+2026-09-23,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Wednesday,39,September
+2026-09-23,31,"Buldak Rosé","Ramen & Noodles",90,Wednesday,39,September
+2026-09-23,32,"Buldak Black","Ramen & Noodles",0,Wednesday,39,September
+2026-09-23,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Wednesday,39,September
+2026-09-23,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Wednesday,39,September
+2026-09-23,35,"Jin Ramen Spicy","Ramen & Noodles",96,Wednesday,39,September
+2026-09-23,36,"Jin Ramen Mild","Ramen & Noodles",137,Wednesday,39,September
+2026-09-23,37,"Shin Ramyun","Ramen & Noodles",223,Wednesday,39,September
+2026-09-23,38,Pepero,"Snacks & Chocolates",62,Wednesday,39,September
+2026-09-23,39,"Lotte Binch","Snacks & Chocolates",85,Wednesday,39,September
+2026-09-23,40,Snickers,"Snacks & Chocolates",76,Wednesday,39,September
+2026-09-23,41,Mars,"Snacks & Chocolates",170,Wednesday,39,September
+2026-09-23,42,"Bulgogi Sauce","Sauces & Seasonings",84,Wednesday,39,September
+2026-09-23,43,"Sesame Oil","Cooking Ingredients",339,Wednesday,39,September
+2026-09-23,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Wednesday,39,September
+2026-09-23,45,Nori,"Cooking Ingredients",313,Wednesday,39,September
+2026-09-23,46,Kimchi,"Cooking Ingredients",86,Wednesday,39,September
+2026-09-23,47,"Fish Cake","Cooking Ingredients",47,Wednesday,39,September
+2026-09-23,48,"Welch's Assorted Flavors",Beverages,172,Wednesday,39,September
+2026-09-23,49,"Pororo Assorted Flavors",Beverages,243,Wednesday,39,September
+2026-09-23,50,"Coldtalk Assorted Flavors",Beverages,67,Wednesday,39,September
+2026-09-23,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Wednesday,39,September
+2026-09-23,52,Sausage,"Meat & Canned Foods",95,Wednesday,39,September
+2026-09-23,53,"Beef Bulgogi","Meat & Canned Foods",114,Wednesday,39,September
+2026-09-24,1,"Buldak 4X Cheese","Ramen & Noodles",230,Thursday,39,September
+2026-09-24,28,"Buldak Cheese","Ramen & Noodles",58,Thursday,39,September
+2026-09-24,29,"Buldak Carbonara","Ramen & Noodles",113,Thursday,39,September
+2026-09-24,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Thursday,39,September
+2026-09-24,31,"Buldak Rosé","Ramen & Noodles",90,Thursday,39,September
+2026-09-24,32,"Buldak Black","Ramen & Noodles",0,Thursday,39,September
+2026-09-24,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Thursday,39,September
+2026-09-24,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Thursday,39,September
+2026-09-24,35,"Jin Ramen Spicy","Ramen & Noodles",96,Thursday,39,September
+2026-09-24,36,"Jin Ramen Mild","Ramen & Noodles",137,Thursday,39,September
+2026-09-24,37,"Shin Ramyun","Ramen & Noodles",223,Thursday,39,September
+2026-09-24,38,Pepero,"Snacks & Chocolates",62,Thursday,39,September
+2026-09-24,39,"Lotte Binch","Snacks & Chocolates",85,Thursday,39,September
+2026-09-24,40,Snickers,"Snacks & Chocolates",76,Thursday,39,September
+2026-09-24,41,Mars,"Snacks & Chocolates",170,Thursday,39,September
+2026-09-24,42,"Bulgogi Sauce","Sauces & Seasonings",84,Thursday,39,September
+2026-09-24,43,"Sesame Oil","Cooking Ingredients",339,Thursday,39,September
+2026-09-24,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Thursday,39,September
+2026-09-24,45,Nori,"Cooking Ingredients",313,Thursday,39,September
+2026-09-24,46,Kimchi,"Cooking Ingredients",86,Thursday,39,September
+2026-09-24,47,"Fish Cake","Cooking Ingredients",47,Thursday,39,September
+2026-09-24,48,"Welch's Assorted Flavors",Beverages,172,Thursday,39,September
+2026-09-24,49,"Pororo Assorted Flavors",Beverages,243,Thursday,39,September
+2026-09-24,50,"Coldtalk Assorted Flavors",Beverages,67,Thursday,39,September
+2026-09-24,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Thursday,39,September
+2026-09-24,52,Sausage,"Meat & Canned Foods",95,Thursday,39,September
+2026-09-24,53,"Beef Bulgogi","Meat & Canned Foods",114,Thursday,39,September
+2026-09-25,1,"Buldak 4X Cheese","Ramen & Noodles",230,Friday,39,September
+2026-09-25,28,"Buldak Cheese","Ramen & Noodles",58,Friday,39,September
+2026-09-25,29,"Buldak Carbonara","Ramen & Noodles",113,Friday,39,September
+2026-09-25,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Friday,39,September
+2026-09-25,31,"Buldak Rosé","Ramen & Noodles",90,Friday,39,September
+2026-09-25,32,"Buldak Black","Ramen & Noodles",0,Friday,39,September
+2026-09-25,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Friday,39,September
+2026-09-25,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Friday,39,September
+2026-09-25,35,"Jin Ramen Spicy","Ramen & Noodles",96,Friday,39,September
+2026-09-25,36,"Jin Ramen Mild","Ramen & Noodles",137,Friday,39,September
+2026-09-25,37,"Shin Ramyun","Ramen & Noodles",223,Friday,39,September
+2026-09-25,38,Pepero,"Snacks & Chocolates",62,Friday,39,September
+2026-09-25,39,"Lotte Binch","Snacks & Chocolates",85,Friday,39,September
+2026-09-25,40,Snickers,"Snacks & Chocolates",76,Friday,39,September
+2026-09-25,41,Mars,"Snacks & Chocolates",170,Friday,39,September
+2026-09-25,42,"Bulgogi Sauce","Sauces & Seasonings",84,Friday,39,September
+2026-09-25,43,"Sesame Oil","Cooking Ingredients",339,Friday,39,September
+2026-09-25,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Friday,39,September
+2026-09-25,45,Nori,"Cooking Ingredients",313,Friday,39,September
+2026-09-25,46,Kimchi,"Cooking Ingredients",86,Friday,39,September
+2026-09-25,47,"Fish Cake","Cooking Ingredients",47,Friday,39,September
+2026-09-25,48,"Welch's Assorted Flavors",Beverages,172,Friday,39,September
+2026-09-25,49,"Pororo Assorted Flavors",Beverages,243,Friday,39,September
+2026-09-25,50,"Coldtalk Assorted Flavors",Beverages,67,Friday,39,September
+2026-09-25,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Friday,39,September
+2026-09-25,52,Sausage,"Meat & Canned Foods",95,Friday,39,September
+2026-09-25,53,"Beef Bulgogi","Meat & Canned Foods",114,Friday,39,September
+2026-09-26,1,"Buldak 4X Cheese","Ramen & Noodles",230,Saturday,39,September
+2026-09-26,28,"Buldak Cheese","Ramen & Noodles",58,Saturday,39,September
+2026-09-26,29,"Buldak Carbonara","Ramen & Noodles",113,Saturday,39,September
+2026-09-26,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Saturday,39,September
+2026-09-26,31,"Buldak Rosé","Ramen & Noodles",90,Saturday,39,September
+2026-09-26,32,"Buldak Black","Ramen & Noodles",0,Saturday,39,September
+2026-09-26,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Saturday,39,September
+2026-09-26,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Saturday,39,September
+2026-09-26,35,"Jin Ramen Spicy","Ramen & Noodles",96,Saturday,39,September
+2026-09-26,36,"Jin Ramen Mild","Ramen & Noodles",137,Saturday,39,September
+2026-09-26,37,"Shin Ramyun","Ramen & Noodles",223,Saturday,39,September
+2026-09-26,38,Pepero,"Snacks & Chocolates",62,Saturday,39,September
+2026-09-26,39,"Lotte Binch","Snacks & Chocolates",85,Saturday,39,September
+2026-09-26,40,Snickers,"Snacks & Chocolates",76,Saturday,39,September
+2026-09-26,41,Mars,"Snacks & Chocolates",170,Saturday,39,September
+2026-09-26,42,"Bulgogi Sauce","Sauces & Seasonings",84,Saturday,39,September
+2026-09-26,43,"Sesame Oil","Cooking Ingredients",339,Saturday,39,September
+2026-09-26,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Saturday,39,September
+2026-09-26,45,Nori,"Cooking Ingredients",313,Saturday,39,September
+2026-09-26,46,Kimchi,"Cooking Ingredients",86,Saturday,39,September
+2026-09-26,47,"Fish Cake","Cooking Ingredients",47,Saturday,39,September
+2026-09-26,48,"Welch's Assorted Flavors",Beverages,172,Saturday,39,September
+2026-09-26,49,"Pororo Assorted Flavors",Beverages,243,Saturday,39,September
+2026-09-26,50,"Coldtalk Assorted Flavors",Beverages,67,Saturday,39,September
+2026-09-26,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Saturday,39,September
+2026-09-26,52,Sausage,"Meat & Canned Foods",95,Saturday,39,September
+2026-09-26,53,"Beef Bulgogi","Meat & Canned Foods",114,Saturday,39,September
+2026-09-27,1,"Buldak 4X Cheese","Ramen & Noodles",230,Sunday,39,September
+2026-09-27,28,"Buldak Cheese","Ramen & Noodles",58,Sunday,39,September
+2026-09-27,29,"Buldak Carbonara","Ramen & Noodles",113,Sunday,39,September
+2026-09-27,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Sunday,39,September
+2026-09-27,31,"Buldak Rosé","Ramen & Noodles",90,Sunday,39,September
+2026-09-27,32,"Buldak Black","Ramen & Noodles",0,Sunday,39,September
+2026-09-27,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Sunday,39,September
+2026-09-27,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Sunday,39,September
+2026-09-27,35,"Jin Ramen Spicy","Ramen & Noodles",96,Sunday,39,September
+2026-09-27,36,"Jin Ramen Mild","Ramen & Noodles",137,Sunday,39,September
+2026-09-27,37,"Shin Ramyun","Ramen & Noodles",223,Sunday,39,September
+2026-09-27,38,Pepero,"Snacks & Chocolates",62,Sunday,39,September
+2026-09-27,39,"Lotte Binch","Snacks & Chocolates",85,Sunday,39,September
+2026-09-27,40,Snickers,"Snacks & Chocolates",76,Sunday,39,September
+2026-09-27,41,Mars,"Snacks & Chocolates",170,Sunday,39,September
+2026-09-27,42,"Bulgogi Sauce","Sauces & Seasonings",84,Sunday,39,September
+2026-09-27,43,"Sesame Oil","Cooking Ingredients",339,Sunday,39,September
+2026-09-27,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Sunday,39,September
+2026-09-27,45,Nori,"Cooking Ingredients",313,Sunday,39,September
+2026-09-27,46,Kimchi,"Cooking Ingredients",86,Sunday,39,September
+2026-09-27,47,"Fish Cake","Cooking Ingredients",47,Sunday,39,September
+2026-09-27,48,"Welch's Assorted Flavors",Beverages,172,Sunday,39,September
+2026-09-27,49,"Pororo Assorted Flavors",Beverages,243,Sunday,39,September
+2026-09-27,50,"Coldtalk Assorted Flavors",Beverages,67,Sunday,39,September
+2026-09-27,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Sunday,39,September
+2026-09-27,52,Sausage,"Meat & Canned Foods",95,Sunday,39,September
+2026-09-27,53,"Beef Bulgogi","Meat & Canned Foods",114,Sunday,39,September
+2026-09-28,1,"Buldak 4X Cheese","Ramen & Noodles",230,Monday,40,September
+2026-09-28,28,"Buldak Cheese","Ramen & Noodles",58,Monday,40,September
+2026-09-28,29,"Buldak Carbonara","Ramen & Noodles",113,Monday,40,September
+2026-09-28,30,"Buldak Cream Carbonara","Ramen & Noodles",57,Monday,40,September
+2026-09-28,31,"Buldak Rosé","Ramen & Noodles",90,Monday,40,September
+2026-09-28,32,"Buldak Black","Ramen & Noodles",0,Monday,40,September
+2026-09-28,33,"Ottogi Cheese Ramen","Ramen & Noodles",237,Monday,40,September
+2026-09-28,34,"Ottogi Cheese Ramen Stir Fry","Ramen & Noodles",97,Monday,40,September
+2026-09-28,35,"Jin Ramen Spicy","Ramen & Noodles",96,Monday,40,September
+2026-09-28,36,"Jin Ramen Mild","Ramen & Noodles",137,Monday,40,September
+2026-09-28,37,"Shin Ramyun","Ramen & Noodles",223,Monday,40,September
+2026-09-28,38,Pepero,"Snacks & Chocolates",62,Monday,40,September
+2026-09-28,39,"Lotte Binch","Snacks & Chocolates",85,Monday,40,September
+2026-09-28,40,Snickers,"Snacks & Chocolates",76,Monday,40,September
+2026-09-28,41,Mars,"Snacks & Chocolates",170,Monday,40,September
+2026-09-28,42,"Bulgogi Sauce","Sauces & Seasonings",84,Monday,40,September
+2026-09-28,43,"Sesame Oil","Cooking Ingredients",339,Monday,40,September
+2026-09-28,44,"Sesame Oil 1 Liter","Cooking Ingredients",58,Monday,40,September
+2026-09-28,45,Nori,"Cooking Ingredients",313,Monday,40,September
+2026-09-28,46,Kimchi,"Cooking Ingredients",86,Monday,40,September
+2026-09-28,47,"Fish Cake","Cooking Ingredients",47,Monday,40,September
+2026-09-28,48,"Welch's Assorted Flavors",Beverages,172,Monday,40,September
+2026-09-28,49,"Pororo Assorted Flavors",Beverages,243,Monday,40,September
+2026-09-28,50,"Coldtalk Assorted Flavors",Beverages,67,Monday,40,September
+2026-09-28,51,"Lotte Luncheon Meat","Meat & Canned Foods",134,Monday,40,September
+2026-09-28,52,Sausage,"Meat & Canned Foods",95,Monday,40,September
+2026-09-28,53,"Beef Bulgogi","Meat & Canned Foods",114,Monday,40,September
